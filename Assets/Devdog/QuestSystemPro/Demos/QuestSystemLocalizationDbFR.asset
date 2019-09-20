@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b75a309ff767a4bb3ede0d5c1d2f6f, type: 3}
+  m_Name: QuestSystemLocalizationDbFR
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"_lang":"fr-FR","_localizedStrings":{"NO_KEY":"","ea4b67a7-8ce1-4716-ac38-5e6c06029fa6":"Pas
+    mal","DefaultMoveToNextNodeText":"","13ff4830-1841-429c-a37b-a7d7927f25c2":"FR
+    Text"},"_localizedObjects":{"740ca4d8-7941-4483-904e-392f33131535":null}}'
+  _objectReferences: []
+  _lang: fr-FR

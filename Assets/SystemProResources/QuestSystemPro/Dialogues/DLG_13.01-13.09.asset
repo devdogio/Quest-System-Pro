@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1b04f7aa160c3428767bf8c847bd2b, type: 3}
+  m_Name: DLG_13.01-13.09
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"name":"Harrison Gives Licence","description":"Harrison
+    ends the flying lesson by giving the player a licence","helpUrl":null,"_nodes":[{"_index":0,"ownerType":1,"useAutoFocus":true,"_edges":[],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":400.0,"y":77.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.EntryNode"}],"conditions":[],"variables":{"variables":[]}}'
+  _objectReferences: []
+  name: Harrison Gives Licence
+  description: Harrison ends the flying lesson by giving the player a licence
+  helpUrl: 

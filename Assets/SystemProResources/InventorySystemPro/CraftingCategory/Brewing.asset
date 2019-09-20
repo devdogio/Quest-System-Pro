@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c98a2f42cc72694b8eb1068cb92b40a, type: 3}
+  m_Name: Brewing
+  m_EditorClassIdentifier: 
+  ID: 0
+  name: Brewing
+  description: Create potions! Drinks! Zingoshian elixirs!
+  icon: {fileID: 0}
+  alsoScanBankForRequiredItems: 0
+  rows: 1
+  cols: 6
+  blueprints:
+  - {fileID: 11400000, guid: 6d851c16f64514b499e715fab6710c71, type: 2}
+  successAudioClip:
+    audioClip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loop: 0
+  craftingAudioClip:
+    audioClip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loop: 1
+  canceledAudioClip:
+    audioClip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loop: 0
+  failedAudioClip:
+    audioClip: {fileID: 0}
+    volume: 1
+    pitch: 1
+    loop: 0

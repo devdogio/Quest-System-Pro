@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b75a309ff767a4bb3ede0d5c1d2f6f, type: 3}
+  m_Name: QuestSystemLocalizationDbGB
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"_lang":"en-GB","_localizedStrings":{"NO_KEY":"","ea4b67a7-8ce1-4716-ac38-5e6c06029fa6":"Jolly
+    good!","8b6872e2-d2a8-405c-8d66-8b59529a5e58":"GB name","13ff4830-1841-429c-a37b-a7d7927f25c2":"GB
+    Text","5a79dd99-5d8c-4959-94b6-a572122052ed":"A long long time ago","f404a670-933f-4921-8b55-32d7f73fd241":"In
+    a galaxy far away","4482f88c-1439-4db9-abfe-9b3878d570c6":"Yet somehow in the
+    future","dcaf135f-212b-4048-8b83-71cad24b149c":"..."},"_localizedObjects":{"740ca4d8-7941-4483-904e-392f33131535":null,"69359aa4-b3da-49d6-8142-58e0aab37877":null}}'
+  _objectReferences: []
+  _lang: en-GB

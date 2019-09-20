@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff202326860706c49af50d3d853023bd, type: 3}
+  m_Name: Settings_131574997386342675
+  m_EditorClassIdentifier: 
+  exampleCustomNodeUI: {fileID: 11405600, guid: 357774ebadb3f4f4a8fb4debbd77bec1,
+    type: 2}
+  waitForAudioNodeUI: {fileID: 11405600, guid: 493dd8a59226f8b468b856c86769e989, type: 2}
+  playerMaxActiveQuests: 10
+  defaultRewardRowUI: {fileID: 11462060, guid: d4f6c7fbf5962464db0015b6a55e60a7, type: 2}
+  defaultTaskRowUI: {fileID: 11480520, guid: ffee175d437d0ca4b97bafbc57d2f284, type: 2}
+  defaultNodeUIPrefab: {fileID: 11405600, guid: 9e7f15f35810576419fb4b1e1fc932aa,
+    type: 2}
+  playerDecisionNodeUI: {fileID: 11439442, guid: 18e14930440842a43921658506aaa816,
+    type: 2}
+  playerInputNodeUIPrefab: {fileID: 11422416, guid: 6bdcfe37ace91fb40a05afacbbfce37d,
+    type: 2}
+  playerDialogueIcon: {fileID: 0}

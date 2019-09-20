@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b75a309ff767a4bb3ede0d5c1d2f6f, type: 3}
+  m_Name: QuestSystemLocalizationDbNL
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"_lang":"nl-NL","_localizedStrings":{"NO_KEY":"","ea4b67a7-8ce1-4716-ac38-5e6c06029fa6":"Niet
+    slecht...","DefaultMoveToNextNodeText":"Volgende","90ca3e61-2ff3-4e6d-801b-3355cc08c5df":"NL
+    Description","13ff4830-1841-429c-a37b-a7d7927f25c2":"NL Text","73abd1b5-6005-49e6-af30-9376a2a814d1":"NL
+    Override","fefcf96c-55e9-4039-9540-10cb78d85253":"a","18057af5-9338-4336-baf7-df4c866f12ec":"b","4ba340c5-c726-492a-98dd-1382045e7818":"c","60a48f9a-286b-4403-a099-1d86e11b89de":"d"},"_localizedObjects":{"740ca4d8-7941-4483-904e-392f33131535":null}}'
+  _objectReferences: []
+  _lang: nl-NL

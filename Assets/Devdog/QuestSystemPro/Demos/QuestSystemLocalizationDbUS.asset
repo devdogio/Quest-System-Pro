@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b75a309ff767a4bb3ede0d5c1d2f6f, type: 3}
+  m_Name: QuestSystemLocalizationDbUS
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"_lang":"en-US","_localizedStrings":{"NO_KEY":"","d2046048-df0a-4845-b8cb-fc3d37a9cbbf":"Discover
+    another location","77f9dde3-7e11-4edc-9a2b-955ba6c4047d":"Trigger test","Devdog_LoveHate_Affinity":"Affinity","3d8473b0-0073-45f3-ba45-864cc63fc8c3":"Oh,
+    you I like... Did you know you have 40+ affinity?","c5cd37af-0ad1-4320-9fa1-7a2776c1635a":"Helloo!!","feefbe8f-4764-4e27-9418-b680211d9691":"Hello","PlayerQuestStatusChoiceNode_Cancel":"Cancel","aec47f78-02b2-4cd9-84fb-27f062e32e58":"Gather
+    me some coins??","PlayerQuestStatusChoiceNode_Accept":"Activate","SomeKey201":"Hi
+    there!","2e24db03-5bdc-4254-91d2-a7cdb627e32f":"Create a new one here...","1a9ae26d-aef5-47a5-af85-2b624b1addda":"Hi
+    there!","72a4fb20-6717-4719-a760-326100ad8e35":"Want to hear a secret?","e4ee5f53-a07c-467f-a7b5-88ae049dcccb":"[Game]","854d6144-042d-4b8a-8fac-a5d19f3683c3":"Let
+    me think for a moment...","e112b4cf-e622-4e95-bc06-30d205bd1eb7":"That''s... not
+    a secret?","0b64b53a-8892-4bdd-bd84-55b7cffdb078":"Hello!","f64ae8a4-e494-4a44-ad9d-0117620bb51d":"Hi......
+    Awkward...","73e35023-eb80-4a79-a137-f75c0773dde5":"You look like a clever guy...","294a38ac-ddd3-4535-bfa2-3d36a06e47f2":"What''s
+    2+2?","4ebd3a2a-a355-4520-8fcf-d05ff1fae973":"Ha {UserInput}! Maybe not so smart
+    after all...","6ba3bb89-82c2-4c5e-b816-314965b9accf":"Yes! {UserInput}!","db919fda-3fff-430f-9065-6f6e527d95a5":"I''m
+    a genius!","2f038081-33c6-40fa-b43c-926a08e9c4fa":"Well.. maybe... not a...","5a159929-33d3-4e31-9216-4e9c4fe4b85e":"A
+    genius!!","27aa6c46-01bb-4c5f-87b5-1da2c5ae66df":"What''s: sqrt(55^4) * PI feel
+    free to round to a whole number...","ea4b67a7-8ce1-4716-ac38-5e6c06029fa6":"I
+    aint even mad, that''s amaizing","c40bf7a4-209b-4d3d-a7a3-85bfedda374b":"That''s
+    what I thought...","DefaultMoveToNextNodeText":"Next","8b6872e2-d2a8-405c-8d66-8b59529a5e58":"Discovery","27ebc45a-6815-406b-9c26-36655d18ed7e":"My
+    en-US message","66ca1361-4bea-431e-9896-a362da581b4e":"Find location A","31ef12eb-fe92-45be-886f-4a6abaf893e2":"Found
+    location A {0}/{2}","Quest2Description":"I know these wonderful places, you just
+    have... to see them.","90ca3e61-2ff3-4e6d-801b-3355cc08c5df":"Find location B","231ee7e8-6bb6-4a6b-90ae-2a73dc784382":"Some
+    US text","1d058fab-419f-465b-8b85-66fb4b4938e5":"Lorem ipsum","98db52c6-db00-4715-aca0-a37c299da25f":"Lorem","01e3a169-e58c-4e0c-bb40-de13e31e84ca":"Ipsum","77f82924-2763-4354-9886-bb03e391135f":"Hunt
+    some monsters","d7c8f35c-72fc-4178-ae58-ad492b24dfaf":"Quest nr 2","13ff4830-1841-429c-a37b-a7d7927f25c2":"US
+    Text","0a8269ac-a1b4-4862-8500-e1bd3d35dee3":"Do something","b2872b15-cde8-4196-b692-095de4466dcb":"Completed
+    {0} of {1}","c9ebb0a8-0b73-4916-b495-ca98deb0e49e":"Killed {0} of {2}","74ee03dc-b221-4578-935c-799be4c50fe9":"Kill
+    3 monsters","876c3f72-ad93-4430-9c29-a9cf77fc750f":"Hunt these monsters! They''re
+    a huge pain...","7f449fe1-3069-491d-a9c3-2d4f778b4f7d":"Found location B","c335baf3-ce5b-42d6-9c7e-b56d5abb1cea":"Some
+    US text","2b81ac84-8360-49c8-92c6-30b98b4f55a4":"Then US","SomeKey202":"Hi there!","346997d3-7f3d-420e-a749-3c616be7fbab":"Come
+    back when you have all coins...","874e669a-fa95-40a4-a877-ced51f977e22":"Oh hello
+    there!","2f103bfe-3969-4271-8146-cda0031a61af":"Hi..","146ef061-45b9-4c73-940d-1ec0a79191f4":"Activate","79cfd94e-ecb2-4bac-a6d8-d804a490774b":"Cancel","a38a411f-4f5c-4aa6-abd4-2eeb3277f501":"Why
+    hello","c3d24369-79a8-4ba0-822c-c683a6e01802":"Hello there","83d990cb-231b-4273-8c4d-27a070f852f8":"Option
+    1","PlayerQuestStatusChoiceNode_Decline":"Cancel","5c18f196-f0dd-40bd-9772-4caa270cd59e":"ABC","73abd1b5-6005-49e6-af30-9376a2a814d1":"En
+    us text","fa1de56b-e9bf-4936-a349-eeb2586e1012":"Talking like a champ","9c1ef746-3ebb-407e-b239-96601c52c9f8":"You''re
+    quite the talker!","fdd95b62-13b0-4ffd-9353-46fa37339f48":"Talk to Charles","d8aa57d7-5d69-497a-bf5d-78cdfec9f961":"Talked
+    to Charles {0}/{2} times","7013fa16-c22b-4f05-944a-fb40d9bc53a5":"Hey there!","73b34ee6-b251-4e65-a023-a9e7af20e634":"Oh,
+    finally someone to talk to. I''ve been so lonely ... bla bla bla...","c4e17871-cf4f-47f1-8f86-8bad3255178b":"Ears
+    talked of","031df2a9-42fe-445b-b67e-261b811634ec":"Listen...","9ac592e9-94f6-48b0-880e-3807f470540d":"Listener","8ef4f8a5-d8b6-40ec-be51-198cbb60e014":"Listened
+    {0}/{2}","33d18ce7-f3d7-496f-a8d5-420326cb7d06":"Talk to John","4c1fca0e-834e-4c12-a565-1364d1a73616":"Talk
+    to John","4b28c82e-6c09-4886-82c3-f08da6f36948":"Talk to John","35934448-2b66-4610-9ed2-97b9626fd44f":"Talked
+    to John","4ad300be-fcfa-49e8-84de-1680b793e0c2":"Talk to John","9dae1c00-8e07-4d3a-b637-ae248ed2cf52":"Talked
+    to John","6e806740-bfbb-45f2-9686-86b5bfee0bea":"(Inventory Pro) Kill monster
+    quest!","41e7cd20-6823-4666-90b8-e9a37d8358ef":"Kill some monsters","1ec47726-1161-4cbf-8281-d931869e5a1c":"Kill
+    some monsters","861c3b77-589c-4fca-b957-21cf213d9f38":"Killed {0}/{2} monsters","9f19d8a7-b4d5-4738-8085-011e8024dad5":"Why
+    hello!","54080377-0e92-4f80-af04-79959904ec4c":"Talk quest","b46f5066-e280-4db1-8ee1-f67b6d9ce5a9":"Talk
+    to someone","c4c05e23-f3fe-4225-a931-4f2cb46cb1ca":"Talk to... someone...","4a67af16-3fff-4c9a-9d25-28b4082ac68d":"Talked
+    to somone...","4c3032f8-136d-4545-b062-6237a53374d3":"... so ... ?","a21d73e9-862a-4512-972d-623a642136bc":"You
+    don''t have any active quests with me? Why not?","de244ee9-f5b0-4204-ba2d-359e43fb979e":"Well....
+    err... Why are all you guys so weird...","f1215642-1ef5-4103-87f4-bca79287bb72":"Programmed
+    this way...","cd698140-de38-4fb7-abce-d79981153fe5":"Why hello young one!","49f2c2d3-7237-454e-aab5-be4a019c5de5":"You
+    can only see this when you have an active quest","e9bc11c4-bd90-4f3e-b9a6-10f3a1c4f0e1":"Hi","a514b2c2-4666-43ac-8d1d-c7f863439ef2":"[HI!]","c384c3c1-79fb-415c-84b8-52b362bc1dc4":"Only
+    visible with quest","e5c4cf0d-0bc1-481b-8afc-dbcf19493520":"[Quests]","5aa8620d-2766-4fcd-b98b-5f08af9137c7":"Will
+    you accept this awesome quest?","04197866-2f05-4999-8006-9595fe33df57":"Accept
+    this 2nd quest?","cb5b8787-c778-440b-95ae-dc5fb587227e":"You cancelled it??!","b00b8e31-3aff-47f6-a20b-2342f94db34e":"Let''s
+    do this!","9fc7521c-fe54-4331-96d6-781c51ff8314":"Well done sir!","71523993-b529-4dff-9be2-a768e45b4829":"Go
+    and do this.. erm.. quest!","046a0775-1bd4-4599-b579-897f49b1e32d":"Fantastic!","24bc897a-62f5-4188-9219-25ebb19c26b0":"Yeah...","d5cf73ec-963f-4590-8276-0a6294d8be2d":"K","859198ff-ab24-46cf-a19f-0874a8bcff1c":"Hey
+    there","4af43203-99d1-4593-958d-67d6fa4489dc":"I just.. LOVE .. to talk!","8e65eb5f-fc7c-4e40-8507-a5cef6f0a168":"Oh
+    did you know.. blah blah\nAnd more...","b01b0983-110b-4bf5-b379-c25373f55189":"Care
+    to gather me some coins?","4a1a0670-f33e-4bc4-ae66-2b70cc5c0edc":"Soo?","f093bdbd-8a10-4e54-9d12-46600c76ca48":"No","PlayerQuestStatusChoiceNode_Complete":"Complete","27a384d8-b217-4900-a27f-e0bc1c3e7b33":"[HI]","01353007-acc0-48b9-80af-9fff482b6ecb":"Welcome
+    to the RT-Voice / Quest SYstem Pro demo","cb4e0bdb-d638-4df7-bcac-0b8c325d70fd":"Hi
+    to you!","0d4792f9-2ea2-40af-a0d0-bb29d8bb5f82":"Gotta go now...","845a86f6-6e6e-40a4-a7f6-9c9e0d503b44":"And
+    hello to you!","623c0663-918b-4bbd-8ea6-95261bfa5053":"Bye now...","4ecc9a7f-8567-4a91-a290-0a8749d4bac6":"Hi
+    there","3777498a-b09c-4ced-b622-b724e6352d20":"Hello!!","015afcd7-83f1-4750-8bde-f5c26a07705a":"HOW
+    ARE YOU?","f21ed80d-76a3-499f-99d5-8b505fa87c8f":"Sh... no need to scream...","e3c24563-b457-4246-ab9a-283d3193a6be":"Hi","d3d2308a-21d0-44f3-834e-43f2faf47d6a":"...
+    Bye","e5a1bd23-afa0-4eab-a303-c4289fd9c8d2":"Collected {0} / {1}","1d48d1fb-f45d-4b1f-a982-c43538fea066":"LoveHate
+    Test Quest","5dca1ef8-4b01-463f-9f2a-846cd67c4f14":"A quest to test if the deeds
+    connection works with Quest System Pro","35a6ffd2-e232-4966-995b-71607f9ff815":"Do
+    me a good DEED will you? Talk to John, he''s feeling down...","940d1c21-490d-400a-a0e8-c1daa98b2392":"Talk
+    to John","ed34a915-761a-40f7-b283-2e375e7facad":"asdf","851616a9-43d6-419d-b2ac-a8bc814eee68":"Why
+    the sad face?\r\n\r\n","0f00d2c5-0839-4092-9963-063269400ba3":"Oh... Hello...","b1030235-9098-46a9-bc70-23a830cfede1":"Oh,
+    never mind, I feel great now!","Devdog_LoveHate_Quest_AffinityToLow":"Affinity
+    of {0} is to low, requires {1} or higher.","Devdog_LoveHate_Quest_AffinityToHigh":"Affinity
+    of {0} is to high, requires {1} or less.","86e9bca6-e33c-45d2-8bfd-b9461ad9beec":"A
+    test quest for triggers","bcd24d0e-2444-45ee-810f-bcffc5bc1f91":"Open the door!","0d889661-1c83-44ab-8046-36f0b2195c4f":"Opened
+    door","405445df-c0a8-4fff-906f-e4a47011e735":"Move through the door","f345e2f6-85bb-4ade-a723-c7a118998713":"Moved
+    through door","42072fd0-2f59-40dd-a06a-460db08425bb":"Discover point 3","81642105-f341-4550-8e5a-da712fd4aae8":"\n","73e35023-eb80-4a79-a137-f75c0773dde6":"Differnt","010a54e0-48bb-43c2-a652-2ee77ad4d623":"a","2eca7d1f-f1fb-45d7-9513-60b17744fc10":"asdf","62cc7781-1c36-4ce8-9687-60970d99e2bd":"sdf","04033412-c373-4a37-a49e-2ad591532f56":"a","26dc4835-c42c-44d8-b7d5-c13f12ad7c44":"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"},"_localizedObjects":{"740ca4d8-7941-4483-904e-392f33131535":null,"722c5bd5-9aa8-4066-ba71-8ca3c77e1dc6":null,"80cee3ee-1d59-49f6-8cd8-c4662593f223":null,"accf70f4-738c-446d-a14d-13eaccac826f":null,"ba0d88dd-d01d-4ea5-93ad-4507db7c78fa":null}}'
+  _objectReferences: []
+  _lang: en-US

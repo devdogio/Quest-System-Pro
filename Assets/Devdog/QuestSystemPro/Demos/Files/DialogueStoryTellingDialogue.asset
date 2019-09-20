@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1b04f7aa160c3428767bf8c847bd2b, type: 3}
+  m_Name: DialogueStoryTellingDialogue
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"name":null,"description":null,"helpUrl":null,"_nodes":[{"_index":0,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":1,"conditions":[]}],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":6.0,"y":-3.0},"$type":"Devdog.QuestSystemPro.Dialogue.EntryNode"},{"_index":1,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":2,"conditions":[]}],"_message":{"_key":"5a79dd99-5d8c-4959-94b6-a572122052ed"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":9.0,"y":141.0},"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"_index":2,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":3,"conditions":[]}],"_message":{"_key":"f404a670-933f-4921-8b55-32d7f73fd241"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":2.0,"y":312.0},"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"_index":3,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":4,"conditions":[]}],"_message":{"_key":"4482f88c-1439-4db9-abfe-9b3878d570c6"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":8.0,"y":517.0},"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"_index":4,"ownerType":1,"useAutoFocus":true,"_edges":[],"_message":{"_key":"dcaf135f-212b-4048-8b83-71cad24b149c"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":2.0,"y":700.0},"$type":"Devdog.QuestSystemPro.Dialogue.Node"}],"conditions":[],"variables":{"variables":[]}}'
+  _objectReferences: []
+  name: 
+  description: 
+  helpUrl: 

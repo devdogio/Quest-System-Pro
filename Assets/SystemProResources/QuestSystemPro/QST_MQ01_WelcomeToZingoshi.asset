@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0763b70f85cfe5f4e93fd923c8b3d84a, type: 3}
+  m_Name: QST_MQ01_WelcomeToZingoshi
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"ID":1,"name":{"_key":"58a3b763-7325-4c63-adc7-774296fc8cb5"},"description":{"_key":"1f8f9ea6-d97d-4ec0-a242-9448b71b37f3"},"icon":null,"autoCompleteWhenTasksAreDone":false,"taskOrder":1,"_tasks":[{"key":"TSK_MeetHarrison","description":{"_key":"bec43e8d-5853-4977-b8d6-56827cde8b76"},"statusMessage":{"_key":"e17ced65-8615-44b4-8689-2a8fabfdc4f2"},"_icon":null,"_progressCap":1.0,"autoComplete":true,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[{"from":1.0,"to":1.0,"rewardGivers":[]}]}],"onActivationRewardGivers":[],"rewardGivers":[],"maxRepeatTimes":1,"requiresFinishedQuests":[],"conditions":[],"timeHandler":{"failQuestWhenOutOfTime":true,"$type":"Devdog.QuestSystemPro.QuestTimeHandler"}}'
+  _objectReferences: []
+  ID: 1
+  name:
+    _key: 58a3b763-7325-4c63-adc7-774296fc8cb5
+  description:
+    _key: 1f8f9ea6-d97d-4ec0-a242-9448b71b37f3
+  icon: {fileID: 0}
+  autoCompleteWhenTasksAreDone: 0
+  taskOrder: 1
+  maxRepeatTimes: 1

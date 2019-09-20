@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0763b70f85cfe5f4e93fd923c8b3d84a, type: 3}
+  m_Name: Time_limit_quest_#3_131081696124953785
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"ID":3,"name":{"_key":"d7c8f35c-72fc-4178-ae58-ad492b24dfaf"},"description":{"_key":"13ff4830-1841-429c-a37b-a7d7927f25c2"},"icon":null,"autoCompleteWhenTasksAreDone":false,"taskOrder":0,"_tasks":[{"key":"Main","description":{"_key":"0a8269ac-a1b4-4862-8500-e1bd3d35dee3"},"statusMessage":{"_key":"b2872b15-cde8-4196-b692-095de4466dcb"},"_icon":null,"_progressCap":5.0,"autoComplete":true,"useTimeLimit":true,"timeLimitInSeconds":30.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]}],"onActivationRewardGivers":[],"rewardGivers":[],"maxRepeatTimes":1,"requiresFinishedQuests":[],"conditions":[],"timeHandler":{"failQuestWhenOutOfTime":true,"$type":"Devdog.QuestSystemPro.QuestTimeHandler"}}'
+  _objectReferences: []
+  ID: 3
+  name:
+    _key: d7c8f35c-72fc-4178-ae58-ad492b24dfaf
+  description:
+    _key: 13ff4830-1841-429c-a37b-a7d7927f25c2
+  icon: {fileID: 0}
+  autoCompleteWhenTasksAreDone: 0
+  taskOrder: 0
+  maxRepeatTimes: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1b04f7aa160c3428767bf8c847bd2b, type: 3}
+  m_Name: DLG_14.01-14.09
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"name":"Introducing Willabella","description":"Willabella
+    introduces herself then leaves to find Warren","helpUrl":null,"_nodes":[{"_index":0,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":1,"conditions":[]}],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":0.0,"y":0.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.EntryNode"},{"_playerDecisions":[{"option":{"_key":"32d5de85-da76-417d-8dc5-f779dfa8b69a"}},{"option":{"_key":"7a5c06b4-f12b-4016-8131-e342a0a5690d"}},{"option":{"_key":"4723e3d9-97fd-43a3-980b-10c1cb15058f"}}],"_index":1,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":3,"conditions":[]}],"_message":{"_key":"5d23b2f7-4296-4725-b493-acbbfa3f69b3"},"audioInfo":{"audioClip":{"_key":"fd9af10f-d557-4593-88c3-b701907937b7"},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":101.0,"y":159.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.PlayerDecisionNode"},{"_playerDecisions":[{"option":{"_key":"3f2d74e1-c89c-454f-8003-53abfe041e9d"}},{"option":{"_key":"76ad9dc5-e3ba-4225-8527-5a2a2d679320"}},{"option":{"_key":"f1e2ef9c-e8bc-4b5f-99be-2a3f7e678fdd"}}],"_index":2,"ownerType":1,"useAutoFocus":true,"_edges":[],"_message":{"_key":"c1266b33-135f-4082-9565-3bd1999aa095"},"audioInfo":{"audioClip":{"_key":"9fe235f8-9ee1-47a1-8c4e-e132d75bdad1"},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":75.0,"y":906.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.PlayerDecisionNode"},{"quests":[0],"status":0,"_index":3,"ownerType":1,"useAutoFocus":true,"_edges":[],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":63.0,"y":1855.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.ChangeQuestStatusNode"}],"conditions":[],"variables":{"variables":[]}}'
+  _objectReferences:
+  - {fileID: 11400000, guid: b05ab483a5564304e88be5a9a92d9105, type: 2}
+  name: Introducing Willabella
+  description: Willabella introduces herself then leaves to find Warren
+  helpUrl: 

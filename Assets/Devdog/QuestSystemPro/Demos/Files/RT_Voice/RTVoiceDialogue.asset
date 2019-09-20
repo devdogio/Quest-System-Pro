@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1b04f7aa160c3428767bf8c847bd2b, type: 3}
+  m_Name: RTVoiceDialogue
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"name":null,"description":null,"helpUrl":null,"_nodes":[{"_index":0,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":3,"conditions":[]}],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":0.0,"y":0.0},"$type":"Devdog.QuestSystemPro.Dialogue.EntryNode"},{"_index":1,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":2,"conditions":[]}],"_message":{"_key":"cb4e0bdb-d638-4df7-bcac-0b8c325d70fd"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":-126.0,"y":452.0},"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"_index":2,"ownerType":0,"useAutoFocus":true,"_edges":[],"_message":{"_key":"0d4792f9-2ea2-40af-a0d0-bb29d8bb5f82"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":-126.0,"y":662.0},"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"_playerDecisions":[{"option":{"_key":"feefbe8f-4764-4e27-9418-b680211d9691"}},{"option":{"_key":"27a384d8-b217-4900-a27f-e0bc1c3e7b33"}}],"_index":3,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":1,"conditions":[]},{"toNodeIndex":4,"conditions":[]}],"_message":{"_key":"01353007-acc0-48b9-80af-9fff482b6ecb"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":1.0,"y":111.0},"$type":"Devdog.QuestSystemPro.Dialogue.PlayerDecisionNode"},{"_index":4,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":5,"conditions":[]}],"_message":{"_key":"845a86f6-6e6e-40a4-a7f6-9c9e0d503b44"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":136.0,"y":450.0},"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"_index":5,"ownerType":0,"useAutoFocus":true,"_edges":[],"_message":{"_key":"623c0663-918b-4bbd-8ea6-95261bfa5053"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":141.0,"y":660.0},"$type":"Devdog.QuestSystemPro.Dialogue.Node"}],"conditions":[],"variables":{"variables":[]}}'
+  _objectReferences: []
+  name: 
+  description: 
+  helpUrl: 

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73443a2fdb9b66a4f8e6990e4d26c8d2, type: 3}
+  m_Name: Language_131574997415465481
+  m_EditorClassIdentifier: 
+  missingCompletedQuest:
+    title: 
+    message: You have to finish of range.
+  canNotAcceptQuestRequiresCompletedQuest:
+    title: 
+    message: Can not accept quest.
+  canNotAcceptQuestReachedMaxRepeatTimes:
+    title: 
+    message: Can not accept quest, repeated maximum times.
+  canNotAcceptQuestMaxActiveQuests:
+    title: 
+    message: Can not accept quest, you have to many active quests.
+  canNotCompleteQuestTasksAreNotCompleted:
+    title: 
+    message: Can not complete quest, tasks are not completed.
+  canNotCompleteQuestOverTimeLimit:
+    title: 
+    message: Can not complete quest, time limit reached.
+  questTaskNotCompleted:
+    title: 
+    message: Can not complete task, progress is insufficient.
+  outOfRange:
+    title: 
+    message: You're out of range.

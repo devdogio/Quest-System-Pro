@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1b04f7aa160c3428767bf8c847bd2b, type: 3}
+  m_Name: DLG_2.01-5.05
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"name":"Warren Introduction","description":null,"helpUrl":null,"_nodes":[{"_index":0,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":1,"conditions":[]}],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":0.0,"y":0.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.EntryNode"},{"_playerDecisions":[{"option":{"_key":"d3a0fab3-b60f-4dad-a2d3-0e787ffa5abe"}},{"option":{"_key":"ae24caed-c357-4238-8c69-701cdb29f935"}},{"option":{"_key":"0ad08cf7-f8b6-4244-a055-2c7004f619ab"}}],"_index":6,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":7,"conditions":[]},{"toNodeIndex":8,"conditions":[]},{"toNodeIndex":9,"conditions":[]}],"_message":{"_key":"74695f46-cbab-4dea-b7f9-6c7f144aa8a1"},"audioInfo":{"audioClip":{"_key":"8d23e526-d24a-48a3-9c45-fe2d4c102745"},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":82.0,"y":681.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.PlayerDecisionNode"},{"variable":{"guid":"386581fe-103d-42dd-aa86-7480b32dd48b"},"value":true,"_index":12,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":14,"conditions":[]}],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":-208.0,"y":1601.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.SetVariableNode`1[[System.Boolean,
+    mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},{"variable":{"guid":"cc49b998-4a4e-4444-83f4-64007e07a2ae"},"value":true,"_index":13,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":14,"conditions":[]}],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":102.0,"y":1600.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.SetVariableNode`1[[System.Boolean,
+    mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},{"_playerDecisions":[{"option":{"_key":"87b63de4-d294-44b6-b211-f5eeef499629"}},{"option":{"_key":"04d9a368-4880-4d7d-adf9-1465c5cc40e6"}},{"option":{"_key":"3e84c816-756b-46b4-a6c0-c426c20bb80a"}}],"_index":17,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":18,"conditions":[]},{"toNodeIndex":20,"conditions":[]},{"toNodeIndex":21,"conditions":[]}],"_message":{"_key":"87733f3b-2a79-4f88-b3f5-34187b8aefd2"},"audioInfo":{"audioClip":{"_key":"5122f0f1-516c-4414-9b83-b480093fc9a0"},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":183.0,"y":2610.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.PlayerDecisionNode"}],"conditions":[],"variables":{"variables":[{"guid":"1fe5dc4a-ae83-45c8-8da3-9df338c39a59","name":"Ignore","$type":"Devdog.QuestSystemPro.Dialogue.Variable`1[[System.Boolean,
+    mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},{"guid":"cc49b998-4a4e-4444-83f4-64007e07a2ae","name":"VAR_ChoseCarrot","$type":"Devdog.QuestSystemPro.Dialogue.Variable`1[[System.Boolean,
+    mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},{"guid":"386581fe-103d-42dd-aa86-7480b32dd48b","name":"VAR_ChoseChocolate","$type":"Devdog.QuestSystemPro.Dialogue.Variable`1[[System.Boolean,
+    mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}]}}'
+  _objectReferences: []
+  name: Warren Introduction
+  description: 
+  helpUrl: 

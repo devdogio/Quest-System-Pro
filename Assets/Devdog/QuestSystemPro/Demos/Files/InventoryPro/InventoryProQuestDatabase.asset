@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9739c21834b07e4b982fe8342184783, type: 3}
+  m_Name: InventoryProQuestDatabase
+  m_EditorClassIdentifier: 
+  quests:
+  - {fileID: 11400000, guid: c88e906fc09007a4786e2bfe3e780a69, type: 2}
+  - {fileID: 11400000, guid: a1bc93f02fd0c94419e0deec62e401a9, type: 2}
+  - {fileID: 11400000, guid: 5fdc2e067146571489292ccb5fd57198, type: 2}
+  - {fileID: 11400000, guid: 2534b99c359f6014685db081ebb602f3, type: 2}
+  achievements: []

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0763b70f85cfe5f4e93fd923c8b3d84a, type: 3}
+  m_Name: QST_MQ05_BeastlyBoutAtTheBay
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"ID":5,"name":{"_key":"2917660a-1a17-47d1-bd4a-c96d16fb13b2"},"description":{"_key":"b2c9ed94-c087-4723-a87d-6f462f7d4f1e"},"icon":null,"autoCompleteWhenTasksAreDone":false,"taskOrder":1,"_tasks":[{"key":"TSK_ToSerendipityBay","description":{"_key":"a9131707-8843-4c02-9547-f9ab6e27e31f"},"statusMessage":{"_key":"NO_KEY"},"_icon":null,"_progressCap":1.0,"autoComplete":false,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]},{"key":"TSK_ReverseTheSpell","description":{"_key":"8d64c868-cf3b-4949-9ba4-2e2800063e9d"},"statusMessage":{"_key":"NO_KEY"},"_icon":null,"_progressCap":1.0,"autoComplete":false,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]},{"key":"TSK_BackToTheCabin","description":{"_key":"78c67a4c-6827-49c5-b6b4-70b0e501b35a"},"statusMessage":{"_key":"NO_KEY"},"_icon":null,"_progressCap":1.0,"autoComplete":false,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]}],"onActivationRewardGivers":[],"rewardGivers":[],"maxRepeatTimes":1,"requiresFinishedQuests":[0],"conditions":[],"timeHandler":{"failQuestWhenOutOfTime":true,"$type":"Devdog.QuestSystemPro.QuestTimeHandler"}}'
+  _objectReferences:
+  - {fileID: 11400000, guid: 1a716f4f386e176449f7356335c10509, type: 2}
+  ID: 5
+  name:
+    _key: 2917660a-1a17-47d1-bd4a-c96d16fb13b2
+  description:
+    _key: b2c9ed94-c087-4723-a87d-6f462f7d4f1e
+  icon: {fileID: 0}
+  autoCompleteWhenTasksAreDone: 0
+  taskOrder: 1
+  maxRepeatTimes: 1

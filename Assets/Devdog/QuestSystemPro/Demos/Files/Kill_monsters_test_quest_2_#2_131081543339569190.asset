@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0763b70f85cfe5f4e93fd923c8b3d84a, type: 3}
+  m_Name: Kill_monsters_test_quest_2_#2_131081543339569190
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"ID":2,"name":{"_key":"77f82924-2763-4354-9886-bb03e391135f"},"description":{"_key":"876c3f72-ad93-4430-9c29-a9cf77fc750f"},"icon":null,"autoCompleteWhenTasksAreDone":false,"taskOrder":0,"_tasks":[{"key":"Main","description":{"_key":"74ee03dc-b221-4578-935c-799be4c50fe9"},"statusMessage":{"_key":"c9ebb0a8-0b73-4916-b495-ca98deb0e49e"},"_icon":null,"_progressCap":3.0,"autoComplete":true,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]}],"onActivationRewardGivers":[],"rewardGivers":[],"maxRepeatTimes":2,"requiresFinishedQuests":[],"conditions":[],"timeHandler":{"failQuestWhenOutOfTime":true,"$type":"Devdog.QuestSystemPro.QuestTimeHandler"}}'
+  _objectReferences: []
+  ID: 2
+  name:
+    _key: 77f82924-2763-4354-9886-bb03e391135f
+  description:
+    _key: 876c3f72-ad93-4430-9c29-a9cf77fc750f
+  icon: {fileID: 0}
+  autoCompleteWhenTasksAreDone: 0
+  taskOrder: 0
+  maxRepeatTimes: 2

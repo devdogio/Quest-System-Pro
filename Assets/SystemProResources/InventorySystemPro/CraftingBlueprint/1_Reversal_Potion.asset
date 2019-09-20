@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07aa2090778ebbf4c9e40567f8de06d3, type: 3}
+  m_Name: 1_Reversal_Potion
+  m_EditorClassIdentifier: 
+  ID: 1
+  useItemResultNameAndDescription: 1
+  customName: 
+  customDescription: 
+  requiredItems:
+  - item: {fileID: 114192570442393610, guid: eb1136a7d4f3d14468ed1ffbbef61dbc, type: 2}
+    amount: 1
+  - item: {fileID: 114918156641954428, guid: bed964ccdc4041d469db364995322666, type: 2}
+    amount: 1
+  - item: {fileID: 114272687155759302, guid: 8d56ec415c1fd88448450c6653ec74b4, type: 2}
+    amount: 3
+  - item: {fileID: 114098595320787752, guid: d5e5d9e7ecaeb8942a4815351a1fb8ce, type: 2}
+    amount: 1
+  usageRequirement: []
+  playerLearnedBlueprint: 1
+  craftingCost:
+    _currency: {fileID: 0}
+    _amount: 0
+  successChanceFactor: 1
+  resultItems:
+  - item: {fileID: 114794762351047502, guid: 6a53063b5ed9b734fbfff7e119347435, type: 2}
+    amount: 1
+  craftingTimeDuration: 0
+  craftingTimeSpeedupFactor: 1
+  craftingTimeSpeedupMax: 1
+  blueprintLayouts: []

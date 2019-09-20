@@ -1,0 +1,3 @@
+[submodule "Docs"]
+	path = Docs
+	url = git@github.com:devdogio/Quest-System-Pro-Docs.git

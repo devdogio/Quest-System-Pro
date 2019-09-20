@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1b04f7aa160c3428767bf8c847bd2b, type: 3}
+  m_Name: DLG_18.01-18.10
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"name":"Muriel''s Check-In","description":"Muriel helps
+    the player with the clue (if they want help!)","helpUrl":null,"_nodes":[{"_index":0,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":1,"conditions":[]}],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":547.0,"y":105.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.EntryNode"},{"_playerDecisions":[{"option":{"_key":"50d5f236-ba9e-48bc-a158-bbbd23dd23a7"}},{"option":{"_key":"de361c34-0c14-44a1-835f-9241f180b3de"}},{"option":{"_key":"16994947-b144-4c60-9461-3b431ef4424c"}}],"_index":3,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":4,"conditions":[]},{"toNodeIndex":5,"conditions":[]},{"toNodeIndex":6,"conditions":[]}],"_message":{"_key":"e994e068-e173-46ae-a9c7-3db9f62b39bb"},"audioInfo":{"audioClip":{"_key":"1436db4f-cebc-43df-b8c3-da66dab5da30"},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":529.0,"y":483.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.PlayerDecisionNode"},{"_playerDecisions":[{"option":{"_key":"ae73c8cc-5ac3-4670-855d-30c005c6337a"}},{"option":{"_key":"4b476f80-9588-4a41-8822-f6e3791ac555"}}],"_index":6,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":7,"conditions":[]},{"toNodeIndex":9,"conditions":[]}],"_message":{"_key":"6269f445-b290-4b16-bde1-d5f3cb837c4e"},"audioInfo":{"audioClip":{"_key":"1a568ba5-eef4-4afb-a783-5b1128a9f427"},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":826.0,"y":932.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.PlayerDecisionNode"}],"conditions":[],"variables":{"variables":[]}}'
+  _objectReferences: []
+  name: Muriel's Check-In
+  description: Muriel helps the player with the clue (if they want help!)
+  helpUrl: 

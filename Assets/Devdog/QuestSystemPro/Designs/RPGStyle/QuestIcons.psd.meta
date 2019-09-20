@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: dfe7a05d5f3fda04694b31ff866c5a56
+timeCreated: 1462714400
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: QuestIcons_QuestionMark
+    21300002: QuestIcons_ExclamationMark
+    21300004: QuestIcons_Question
+    21300006: QuestIcons_Exclamation
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: QuestIcons_Question
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -57}
+        - {x: -26, y: -57}
+        - {x: -33, y: -68}
+        - {x: -33, y: -97}
+        - {x: -25, y: -107}
+        - {x: 4, y: -107}
+        - {x: 15, y: -102}
+        - {x: 16, y: -91}
+        - {x: 16, y: -66}
+      - - {x: -34, y: 109}
+        - {x: -38, y: 108}
+        - {x: -64, y: 95}
+        - {x: -64, y: 85}
+        - {x: -53, y: 58}
+        - {x: -45, y: 61}
+        - {x: -28, y: -39}
+        - {x: -24, y: -43}
+        - {x: 6, y: -43}
+        - {x: 63, y: 15}
+        - {x: 63, y: 85}
+        - {x: 50, y: 109}
+    - name: QuestIcons_Exclamation
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -60}
+        - {x: 10, y: -59}
+        - {x: -14, y: -59}
+        - {x: -24, y: -65}
+        - {x: -24, y: -101}
+        - {x: -21, y: -109}
+        - {x: 22, y: -109}
+        - {x: 25, y: -98}
+        - {x: 25, y: -71}
+      - - {x: -23, y: 103}
+        - {x: -23, y: 75}
+        - {x: -17, y: -42}
+        - {x: -15, y: -45}
+        - {x: 15, y: -45}
+        - {x: 20, y: -44}
+        - {x: 24, y: 40}
+        - {x: 24, y: 103}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

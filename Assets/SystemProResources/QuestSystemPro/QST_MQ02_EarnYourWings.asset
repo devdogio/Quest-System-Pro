@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0763b70f85cfe5f4e93fd923c8b3d84a, type: 3}
+  m_Name: QST_MQ02_EarnYourWings
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"ID":2,"name":{"_key":"804bc012-900f-4c19-9352-a1c02c512534"},"description":{"_key":"15629369-38e5-41f6-bee6-56f5a5decf00"},"icon":null,"autoCompleteWhenTasksAreDone":false,"taskOrder":1,"_tasks":[{"key":"TSK_CraftWings","description":{"_key":"8da08b59-595a-4d8c-acc5-65b112966546"},"statusMessage":{"_key":"af9270e3-145f-49bb-924c-0a2f58409c94"},"_icon":null,"_progressCap":1.0,"autoComplete":false,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]},{"key":"TSK_ShowOffYourWings","description":{"_key":"796c2387-19bd-487f-81ec-b4af68d86f9c"},"statusMessage":{"_key":"09a43268-2987-46b7-835f-914cfe408f99"},"_icon":null,"_progressCap":1.0,"autoComplete":false,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]},{"key":"TSK_EarnYourLicence","description":{"_key":"ef8a0915-d7e3-4406-82c6-b99db56ea740"},"statusMessage":{"_key":"03885347-636c-4446-91ed-eac8b1c24e91"},"_icon":null,"_progressCap":10.0,"autoComplete":false,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]},{"key":"TSK_PickUpYourLicence","description":{"_key":"1467bb20-56c1-43ad-b06d-ef7dd66bd60d"},"statusMessage":{"_key":"NO_KEY"},"_icon":null,"_progressCap":1.0,"autoComplete":false,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]},{"key":"TSK_ToWillabellasCabin","description":{"_key":"4b0c7009-14d7-4c5a-98b0-4ba887c160d9"},"statusMessage":{"_key":"NO_KEY"},"_icon":null,"_progressCap":1.0,"autoComplete":false,"useTimeLimit":false,"timeLimitInSeconds":300.0,"requirement":0,"giveRewardsOnTaskComplete":false,"rewardGivers":[],"overAchievements":[]}],"onActivationRewardGivers":[],"rewardGivers":[],"maxRepeatTimes":1,"requiresFinishedQuests":[0],"conditions":[],"timeHandler":{"failQuestWhenOutOfTime":true,"$type":"Devdog.QuestSystemPro.QuestTimeHandler"}}'
+  _objectReferences:
+  - {fileID: 11400000, guid: 6fcce1ad250c6234aa7eac5ba5d4b278, type: 2}
+  ID: 2
+  name:
+    _key: 804bc012-900f-4c19-9352-a1c02c512534
+  description:
+    _key: 15629369-38e5-41f6-bee6-56f5a5decf00
+  icon: {fileID: 0}
+  autoCompleteWhenTasksAreDone: 0
+  taskOrder: 1
+  maxRepeatTimes: 1

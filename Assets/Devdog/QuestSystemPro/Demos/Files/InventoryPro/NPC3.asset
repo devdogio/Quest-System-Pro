@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1b04f7aa160c3428767bf8c847bd2b, type: 3}
+  m_Name: NPC3
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"name":null,"description":null,"helpUrl":null,"_nodes":[{"_index":0,"ownerType":0,"useAutoFocus":true,"_edges":[{"toNodeIndex":1,"conditions":[]}],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":3.0,"y":-14.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.EntryNode"},{"_index":1,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":2,"conditions":[]}],"_message":{"_key":"859198ff-ab24-46cf-a19f-0874a8bcff1c"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":1.0,"y":106.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"_index":2,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":3,"conditions":[]}],"_message":{"_key":"4af43203-99d1-4593-958d-67d6fa4489dc"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":0.0,"y":291.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"_index":3,"ownerType":1,"useAutoFocus":true,"_edges":[{"toNodeIndex":4,"conditions":[]}],"_message":{"_key":"8e65eb5f-fc7c-4e40-8507-a5cef6f0a168"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":4.0,"y":474.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.Node"},{"type":1,"quest":0,"questTask":"Main","amount":1.0,"_index":4,"ownerType":1,"useAutoFocus":true,"_edges":[],"_message":{"_key":"NO_KEY"},"audioInfo":{"audioClip":{"_key":null},"volume":1.0,"pitch":1.0,"loop":false},"motionInfo":{"motion":null,"speed":1.0},"_editorPosition":{"x":4.0,"y":653.0},"lipsyncData":null,"$type":"Devdog.QuestSystemPro.Dialogue.SetQuestProgressNode"}],"conditions":[],"variables":{"variables":[]}}'
+  _objectReferences:
+  - {fileID: 11400000, guid: a1bc93f02fd0c94419e0deec62e401a9, type: 2}
+  name: 
+  description: 
+  helpUrl: 

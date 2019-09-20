@@ -1,0 +1,577 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b75a309ff767a4bb3ede0d5c1d2f6f, type: 3}
+  m_Name: MainLanguageDb
+  m_EditorClassIdentifier: 
+  _serializedJsonString: '{"_lang":"en-US","_localizedStrings":{"NO_KEY":"","bc4aaa71-9fd6-49b2-acc4-bcadc75af556":"Oh
+    no! Warren the Weasel strikes again. Actually, I should <i>really</i> turn him
+    into a weasel! One with fleas...that\u2019d show him.","3b232f7e-71d1-4bbd-b82a-b309bd625c58":"Nice
+    to see that your spellcasting skills are as sharp as your organisational skills,
+    Willabella. ","ed424783-7957-4750-b0d8-5f5c033f9b25":"Maggie! Are you ok? I\u2019m
+    going to GET that pompous piece of pillaging pathetic-ness. I\u2019m gonna pickle
+    him in pond slime, I\u2019m gonna..","3805837f-debd-4ef0-a46e-e7f8fdf9d251":"A
+    Zinger! Marvellous! That\u2019s my reward for being a good citizen","2fc1959b-e8f6-4428-9c1c-84fac8d46f4a":"phlinging,
+    interfering pinkiwobble!","2f90ba0d-4876-47e1-b697-86efa7e83f59":"Talk to me when
+    you''ve got it!","584ab802-83c0-4571-80c8-0e50e988b155":"What does that long fifth
+    word say? If we can crack that we''ll have the rest!","76b83d81-f870-4e42-91c2-92494cd9e9fa":"Good
+    luck!","b0b507c1-76e4-44d7-be4c-264903d8fdb4":"Anyway\u2026 I was nowhere near
+    the neighbourhood and thought I\u2019d drop in to see how you\u2019re doing.","90546f3d-3c74-40bb-a209-90d85517ff9d":"Crack
+    the code to find out where to go next.","4fcd8ec7-c49e-4c78-89cb-f8a3a88aea59":"It\u2019s
+    like you were born to pass wind\u2026 Pass through wind, I mean. Beg your pardon!","4c603ed5-2c48-4f1d-ad30-7bbd060d1f34":"Now
+    that\u2019s a fine pair of flappers! Nothing like having the right tools to help
+    you soar to new heights.","fbf417ac-d19d-4682-9555-e604b90e4903":"Now, did you
+    have any questions for me before we get started?","804bc012-900f-4c19-9352-a1c02c512534":"Earn
+    Your Wings","64fd8d19-3685-496e-9c8f-a8c76822cb28":"Yowsers. Lesson 1, phones
+    are distracting while flying, even if you try to ignore them. Turn \u2018em off,
+    when aloft! Do as I say, not as I do, right?","ed10633b-da56-407a-8b8f-b6ac6cda3b79":"A
+    Zinger! Marvellous! That\u2019s my reward for being a good citizen!","c5334b81-b1d5-4901-a795-e661190f24bb":"Get
+    your cakes, scrumptious cakes, best this side of Indigo Forest!","5aba6a55-6105-4566-97bc-b4bf5f54e430":"[Choose
+    chocolate]","bec43e8d-5853-4977-b8d6-56827cde8b76":"Follow the path down to Gliding
+    Glade and meet Officer Harrison.","a613ebad-92f3-4647-9af6-f4a2aac0a420":"Dude,
+    <i>gorgeous</i>.","ea34f9f4-9cad-4eaa-8ccb-080b04b5a77b":"Forlah-ba-sola-mahkowshia!","662b352f-f036-4551-bb9c-a085e2361d0a":"Oops,
+    sorry. I forgot to start my translation spell. That was Indalian [in-DAY-lee-in]
+    I was speaking, from this country, the Indigo Isles. This is better for you, right!?","58a3b763-7325-4c63-adc7-774296fc8cb5":"Welcome
+    To Zingoshi","1a571b58-33c0-4580-bea2-34f0974f602b":"Forlah-ba-sola-mahkowshia!","1147c1bf-175a-4225-a34d-5549bf2fddd5":"Oops,
+    sorry. I forgot to start my translation spell. That was Indalian I was speaking,
+    from this country, the Indigo Isles. This is better for you, right!?","28ae8c17-a17b-4d63-8caf-78af4f4d8082":"Right,
+    welcome! My name is...actually, my name in Indalian would tie up your tongue and
+    leave you with a headache. Hmmm...the closest Earth name would be\u2026\u2019Muriel\u2019.
+    It means \u2018star of the sea\u2019. Yep, that\u2019ll do it.","db5dfe23-3c47-4fab-9baf-6587e77c2099":"Now,
+    I could yack on forever about the Indigo Isles and the rest of my beloved Planet
+    Zingoshi, but I have a queendom to run and you, super sleuth, have an investigation
+    to begin.","1cabadeb-797f-42d0-96da-7777040dc5f2":"This is Warren.","7d32f32e-ae5f-4acf-9148-e8113a642f8c":"This
+    is Willa, or \u2018Will\u2019, as most of us call her! Her full name is Willabella!","34e34787-4319-4a00-a768-35a9143c93c3":"As
+    you can see, they\u2019ve got some kind of disagreement going on. These photos
+    have already gone viral among the kids here. Now this whole thing seems to be
+    spiralling into something more serious.","906e4966-68b9-4d4a-a124-d5508f8205a0":"I\u2019m
+    flat out, Queenly duties and all, so I need you to get to the bottom of this for
+    me, please.","ef2adf72-ae87-419a-92d2-2f540ee452e4":"Here\u2019s a bit of cash
+    for \u2018investigation expenses\u2019.","4f3a2a75-d7c3-4a31-9312-30f39c832848":"Oh,
+    and you\u2019ll need to pass as Zingeral while you\u2019re here, so let\u2019s
+    sort that out quick-smart. I\u2019ll leave you for a little bit, to whip up something
+    you\u2019re happy to cruise about in.","2a9ff8c6-61e4-4d8c-95ff-b1f5d86fa750":"And
+    now for some wings!","1b6becc6-501f-49a2-b53a-9f5afaa3bfd5":"They\u2019re just
+    for show at this stage. Try to fly with them, and you\u2019ll fall flat on your
+    face!  Don\u2019t worry, you\u2019ll be getting proper wings soon enough.","a0acb696-6b37-4a33-8feb-2aab9d8d9b0b":"Now...
+    sorry to rush off but I\u2019ve got a Treasury Meeting in two minutes. Ugh, yuck!","19aef615-221f-4a22-94c0-a5b80e67bba7":"I\u2019ll
+    just point you in the right direction first...","45b86325-82d5-4693-8262-838156cf5bcd":"Follow
+    this path until you hit Gliding Glade. Officer Harrison should be there now, waiting
+    to sort you out with some real wings and flying lessons.","b592ad42-2a76-49bb-8519-954f7ac2ea55":"Then
+    you\u2019ll be a proper Zingoshian! Right...good luck with your investigation!","6f8920e7-5fb0-4a2d-91d5-c974f0aff57f":"You
+    humans aren\u2019t a bad lot. And I like the spark in your eye. I have high hopes.","1f8f9ea6-d97d-4ec0-a242-9448b71b37f3":"Time
+    to earn your wings Super Sleuth! Officer Harrison is down at Gliding Glade, so
+    just follow the path and meet him there!","1cc1b5ac-a5c1-4aeb-a455-17d4eb24f57f":"Get
+    your cakes, scrumptious cakes, best this side of Indigo Forest!","a57b7f74-20ed-4b09-99a1-924ce10dac4d":"Now,
+    you have the look of a connoisseur of quality cakery! You\u2019re in luck, I was
+    just about to pack up for the day. ","3c642452-a491-4093-9063-43010e9f212a":"But
+    now, for a mere sprinkling of coinage, these exquisite delicacies could still
+    be yours to quaff!","3ba3a915-55fb-426a-b0b3-ea0c907241bc":"My name\u2019s Warren,
+    and since this path leads to Gliding Glade, I\u2019d deduce that you\u2019re off
+    to see Officer Harrison.","e2d02807-5fd4-4635-af03-77db0d505910":"He\u2019s rather
+    fond of cake, you know. Never hurts to make a good impression...and it\u2019s
+    for a good cause, naturally.","2a36ccc6-a298-45ca-b834-b72b752ee0cb":"I\u2019d
+    recommend the Carrot Cake. Tasty and wholesome, the carrots are organic, and locally
+    sourced. Then again, that Chocolate Mud Cake should come with a health warning...it\u2019s
+    to die for!","35caacd9-d024-4c71-993c-981e359ffe7f":"[Choose carrot]","f08701dc-50df-49ea-ba20-7756d455a6bf":"[Choose
+    No Cake]","df17fa09-fd7d-4ddf-98a5-1fd9e5aebe5c":"Thank you. An astute decision.
+    You\u2019re obviously very discerning.","38af4308-ea5d-42bb-8b45-7f7a336cdd0a":"Thank
+    you. A very sensible choice. Officer Harrison will certainly appreciate this.","a5a931ac-ef69-40df-98d6-4cd93dddcef4":"Nothing
+    seems quite right? Yes, I\u2019m sorry the selection is a bit meagre. These cakes
+    have been going like hot...cakes. It may not look like it now, but this path gets
+    surprisingly busy.","e580b439-3ddc-41ec-a2b4-f2bc5af1ab3d":"I\u2019d recommend
+    the Carrot Cake. Tasty and wholesome, the carrots are organic, and locally sourced.
+    Then again, that Chocolate Mud Cake should come with a health warning...it\u2019s
+    to die for!","e38744e5-3634-4b2e-92b3-b1202dc18c60":"Now, you have the look of
+    a connoisseur of quality cakery! You\u2019re in luck, I was just about to pack
+    up for the day. ","be0f323e-0969-4bd5-b7f6-c8e33b264b0b":"But now, for a mere
+    sprinkling of coinage, these exquisite delicacies could still be yours to quaff!","0bfa2f24-b110-4df1-83f2-9da2ede18b31":"Get
+    your cakes, scrumptious cakes, best this side of Indigo Forest!","05f87b3b-db50-4ce4-a081-563124eb24b3":"He\u2019s
+    rather fond of cake, you know. Never hurts to make a good impression...and it\u2019s
+    for a good cause, naturally.","a0dd20cb-ae1d-43d2-a50e-d45e9323e7b7":"Now, you
+    have the look of a connoisseur of quality cakery! You\u2019re in luck, I was just
+    about to pack up for the day. ","5d389ab1-c85c-4ca4-ad38-65233287b6a7":"But now,
+    for a mere sprinkling of coinage, these exquisite delicacies could still be yours
+    to quaff!","97c686d5-3fc7-4be6-b0fb-38c8885cd7e8":"My name\u2019s Warren, and
+    since this path leads to Gliding Glade, I\u2019d deduce that you\u2019re off to
+    see Officer Harrison. ","2eb35a65-71f4-4639-9c16-03cec80e76c8":"He\u2019s rather
+    fond of cake, you know. Never hurts to make a good impression...and it\u2019s
+    for a good cause, naturally.","b1335c15-894e-4fd6-a3ec-ea6a83682e67":"I\u2019d
+    recommend the Carrot Cake. Tasty and wholesome, the carrots are organic, and locally
+    sourced. Then again, that Chocolate Mud Cake should come with a health warning...it\u2019s
+    <i>to die</i> for!","c7d0ba49-8bcb-4ca9-ba76-b753052d90ae":"Thank you. An astute
+    decision. You\u2019re obviously very discerning.","723f491b-d40a-45bf-a34f-88a9206e2571":"Thank
+    you. A very sensible choice. Officer Harrison will certainly appreciate this.","339caa1a-6740-40af-9e69-d11bf738808a":"Nothing
+    seems quite right? Yes, I\u2019m sorry the selection is a bit meagre. These cakes
+    have been going like hot...cakes. It may not look like it now, but this path gets
+    surprisingly busy.","fa6c044c-db3c-435c-bea6-6725a6f4c24f":"Choose chocolate","eb2483e3-c259-4573-8429-fb52b0c75b5d":"Choose
+    carrot","a115c4d7-573c-4db2-8efa-984756782506":"Choose no cake","2a9430b1-76ce-419d-8158-608137beb3de":"Get
+    your cakes, scrumptious cakes, best this side of Indigo Forest!","7d52214b-2c34-4172-b1ea-72a46b2a9e05":"Now,
+    you have the look of a connoisseur of quality cakery! You\u2019re in luck, I was
+    just about to pack up for the day. ","dfd664f8-0d41-43d5-bfe6-055496e503ae":"But
+    now, for a mere sprinkling of coinage, these exquisite delicacies could still
+    be yours to quaff!","4e57855f-0ce1-4e0b-9895-4c474b0ffe09":"My name\u2019s Warren,
+    and since this path leads to Gliding Glade, I\u2019d deduce that you\u2019re off
+    to see Officer Harrison. ","06a343c5-6f5f-47c3-9746-3290d39a9760":"He\u2019s rather
+    fond of cake, you know. Never hurts to make a good impression...and it\u2019s
+    for a good cause, naturally.","b2aaa5b8-a874-45d8-b32f-2d4093e5c3f7":"I\u2019d
+    recommend the Carrot Cake. Tasty and wholesome, the carrots are organic, and locally
+    sourced. Then again, that Chocolate Mud Cake should come with a health warning...it\u2019s
+    <i>to die</i> for!","74695f46-cbab-4dea-b7f9-6c7f144aa8a1":"I\u2019d recommend
+    the Carrot Cake. Tasty and wholesome, the carrots are organic, and locally sourced.
+    Then again, that Chocolate Mud Cake should come with a health warning...it\u2019s
+    <i>to die</i> for!","d3a0fab3-b60f-4dad-a2d3-0e787ffa5abe":"Choose chocolate","ae24caed-c357-4238-8c69-701cdb29f935":"Choose
+    carrot","0ad08cf7-f8b6-4244-a055-2c7004f619ab":"Choose no cake","5274f6bc-e5eb-4f38-a109-2a7fe9ae2d80":"Thank
+    you. An astute decision. You\u2019re obviously very discerning.","9a9da9f7-2617-4c70-aa43-8512b57d9b1a":"Thank
+    you. A very sensible choice. Officer Harrison will certainly appreciate this.","d7d32981-dd52-4631-959f-e1edd071cc17":"Nothing
+    seems quite right? Yes, I\u2019m sorry the selection is a bit meagre. These cakes
+    have been going like hot...cakes. It may not look like it now, but this path gets
+    surprisingly busy.","28d15a58-a96e-445c-8d63-8b77c4dd0acf":"A Zinger! Marvellous!
+    That\u2019s my reward for being a good citizen!","cc3b05f2-b4b2-4dfd-93cc-d6b117c452e3":"\"When
+    one person takes, one person has enough. When everyone gives, everyone has enough.\"
+    Very true indeed. I\u2019ll put that on my bedroom wall.\"","d4b0d317-7b02-4df4-8305-25afcd66d6e1":"Looks
+    like you\u2019ve got something on your mind. Can I help in any way?","497e909b-1fb3-4b47-9088-76d7a138f223":"[Blunt]
+    What\u2019s with you and Willa?","96447092-1269-476c-a5cf-8a6a7687c206":"[Diplomatic]
+    About you and Willabella... I\u2019d like to hear your side of the story.","89961072-dd3e-4ee8-b42a-db7e58ba9073":"[Fishing]
+    You haven\u2019t seen Willa lately, have you?","712a7ed6-7d70-47a5-8633-62117cd7f46d":"Looks
+    like you\u2019ve got something on your mind. Can I help in any way?","992f4e5c-6a3c-4ce2-8ee0-f09f9a9201cc":"Not
+    that it\u2019s any business of yours, but Willabella has had it in for me since
+    the day we met. It\u2019s rather like cakes, I suppose.","6e2ddb32-bd77-42f8-bd39-5d3c1792e6a8":"One
+    girl\u2019s \u2018yummy\u2019 is another girl\u2019s \u2018yuck\u2019, and that
+    girl simply has appalling taste.","df63ed45-7340-4bde-a790-e8a89fd96a36":"So kind
+    of you to ask! Yes, Willabella and I have our differences, but I can honestly
+    say I didn\u2019t start it. From the very first day we met, she took a dislike
+    to me. I have simply responded in kind.","3236b56f-4dc3-4840-9d23-4b947a7fa315":"Not
+    of late, thank goodness. Look, I don\u2019t know what you\u2019ve heard, but let
+    me clear something up. From the very first day we met, Willabella has behaved
+    as though...she\u2019s allergic to me. So, if she treats me like a rash then it\u2019s
+    only fair that I be a little...irritating.","10c96a36-b045-4469-b8c6-dd1d05377d4e":"Well,
+    it\u2019s been a pleasure but I must get packed up. I\u2019ve still got homework
+    to do, you see. Cheerio and enjoy your flying lesson!","3d889383-a58a-4c8a-a47d-8101908287ff":"\"When
+    one person takes, one person has enough. When everyone gives, everyone has enough.\"
+    Very true indeed. I\u2019ll put that on my bedroom wall.","84b4ac0d-2249-4159-9352-7ec29231e5cb":"Looks
+    like you\u2019ve got something on your mind. Can I help in any way?","ed30a5f5-e1af-4e68-b1a9-5d0177facb5c":"[Blunt]
+    What\u2019s with you and Willa?","f81dc41b-06b8-47df-a75e-beecf800854b":"[Diplomatic]
+    About you and Willabella... I\u2019d like to hear your side of the story.","f9d8be72-b9f9-4e65-809a-21aa03064f01":"[Fishing]
+    You haven\u2019t seen Willa lately, have you?","1d0ce8fd-a8f9-4335-a488-65d068612996":"Not
+    that it\u2019s any business of yours, but Willabella has had it in for me since
+    the day we met. It\u2019s rather like cakes, I suppose. ","223e71b9-70e8-424b-99d9-ae8850cd63a3":"One
+    girl\u2019s \u2018yummy\u2019 is another girl\u2019s \u2018yuck\u2019, and that
+    girl simply has appalling taste.","e6dd6886-cd87-42fa-b99b-ab2c36afcdd2":"So kind
+    of you to ask! Yes, Willabella and I have our differences, but I can honestly
+    say I didn\u2019t start it. From the very first day we met, she took a dislike
+    to me. I have simply responded in kind.","5667a291-95aa-4429-9e1d-ecf11e536d0b":"Not
+    of late, thank goodness. Look, I don\u2019t know what you\u2019ve heard, but let
+    me clear something up. From the very first day we met, Willabella has behaved
+    as though...she\u2019s allergic to me. So, if she treats me like a rash then it\u2019s
+    only fair that I be a little...irritating.","f1fc43c5-9841-4718-ac8c-88847b5d101e":"Well,
+    it\u2019s been a pleasure but I must get packed up. I\u2019ve still got homework
+    to do, you see. Cheerio and enjoy your flying lesson!","4079f115-4641-4bfa-91de-6faf299a47c9":"Helloooo!
+    You\u2019re the one I\u2019ve been asked to instruct. Muriel\u2019s \u2018secret
+    investigator\u2019. Hmmm...I probably shouldn\u2019t call you that. Not very \u2018secretive\u2019.","f2926025-9985-4602-a2d1-77c961f33c70":"Yummo!
+    That\u2019s very thoughtful! Thing is, chocolate cake\u2019s not the best fuel
+    for flying. After all, \u201dA good flier is a healthy flier, in brain and body\u201d!","948868f9-686f-452a-ac7a-5c938ad1430e":"<i>You</i>
+    could have it, I suppose, but perhaps not... just before a lesson.... No, best
+    l save it for my... <i>friend</i>, instead. Yes...All in the spirit of health
+    and safety, of course!","1c18f138-006e-4c07-919a-28587318f94c":"Look at that!
+    Carrot cake...packed full of flying energy goodness. Yes, \u201dA good flier is
+    a healthy flier, in brain and body!\u201d Very kind of you and don\u2019t mind
+    if I do! Br-brrk!\r\n","5d7e35de-4a57-4538-801d-a5e3d1928060":"What is a Zingeral?","ffa4efb6-566f-4c9c-a363-e4b408a95ddd":"Is
+    Zingoshi dangerous?","9bca76de-a218-40ee-878a-c044db57bb2e":"What can you tell
+    me about Muriel? Is she really the queen?","c6a4851a-a219-4827-82f7-7213ab9a3bed":"What
+    can you tell me about Warren and Willabella?","aeb1b535-2029-4a53-b885-15d76fa25f87":"Now,
+    do you have some questions for me?","733cf0c1-29d2-45f4-919d-aafe623a4d86":"Ok...think
+    about the fairies you humans seem to love making movies about and then scrub that
+    thought entirely. We zingerals have wings and magic but that\u2019s where the
+    similarities end!","e9409222-1565-4dc6-8c27-31698e2431b5":"Anyway. We\u2019re
+    the ruling species of Planet Zingoshi, like you humans are the ruling species
+    of Earth.","7fb6fb9c-e001-41b8-984c-4d6fbba1669f":"That''s all I need to know
+    for now. Thanks, Officer Harrison!","5f20e8cd-0cf3-4de4-b96a-ce85e76736fc":"Hmm...
+    Is that cake I detect?","3247249b-d0f0-43a7-9c99-ca8db9d62996":"Hmm... Is that
+    cake I detect?","4db7daf7-6bad-42c4-9df4-4fd8bcabc271":"Offer Chocolate Mud Cake","4d58be76-87a7-47fb-aa5c-c9d3124e17fd":"Don''t
+    offer cake","195809e6-c64d-46a7-bc61-5d67fac97415":"Offer Carrot Cake","e676b6c4-6045-44be-9a6f-0ef6b0fa78ad":"Don''t
+    offer cake","fab50cac-f8a8-43df-a0d1-319aadb5b363":"Is Zingoshi dangerous? Have
+    you looked around Earth lately? No, by comparison, Zingoshi is a rubber dummy
+    plastered with \u2018beware of choking\u2019 stickers! We\u2019ve got magic. That
+    can be pretty dangerous but we have strict rules about that sort of stuff. And
+    don\u2019t worry, there are no dangerous creatures here to worry about.","4538c4ba-4b48-44a7-ba36-645a03da3f8a":"Well,
+    except Butterbites I suppose, they nip a tiny bit. Collect these leaves when you
+    see them, they\u2019ll fix you if you ever get on the wrong side of a Butterbite!","b86f3e91-47d0-4dd6-8b4c-a955ca619956":"She
+    sure is! Muriel is a funny mixture of rock\u2019n\u2019roll and queenishness!
+    She might not look it but she can pull the \u2018royal\u2019 card when she needs
+    to. Busy lady! Don\u2019t know how she manages to do all she does and still spare
+    a smile for everyone. Yup, she\u2019s pretty special.","b1e1a580-002b-48a0-b1f2-2242cf869395":"Chalk
+    and cheese those two are. He he...Warren, like chalk, makes me think...bored,
+    and Willa\u2019s like cheese, makes me think...crackers! Cheeseboard and crackers,
+    anyone?\r Nice enough kids on their own, but you know what happens when you mix
+    chalk and cheese? A gluggy mess that tastes awful.\r","5e8bfc59-a3e2-47e3-997e-1540fde7c021":"Now
+    I could give you all the enlightening lessons in Zingoshi on aerodynamics and
+    thermodynamics, and all the uplifting pep talks and lofty speeches, but you\u2019re
+    officially grounded until you get a pair of these.","0e05b428-d5bf-40c5-92b5-00e582baeb20":"So
+    here\u2019s what I\u2019m going to do.","12206db9-3ad0-4537-99dd-71ea7de81359":"Instructions
+    for the construction of one pair of Trainer Wings. Now, you might want to pretty
+    them up a bit. The engineers who build these things tend to leave the visual design
+    to the individual...","56034aee-f40f-40c8-8fd7-0ba6cab63057":"I can\u2019t wait
+    to see how you enhance these. Now, will you go classic and elegant, or bold and
+    loud? Maybe you\u2019ll go berserk with patterns? My first flappers were um...quite
+    flamboyant. Bright pink and purple swirls!","a7502d02-88d7-4ac8-9271-1b929a2a588e":"Right,
+    off you go...fashion yourself some fine flappers. I\u2019ll be right here if you
+    need to know anything else.","15629369-38e5-41f6-bee6-56f5a5decf00":"Time to earn
+    your wings! There are some instructions in your Journal, follow those to bring
+    these wings to life, then let''s get you flying!","8da08b59-595a-4d8c-acc5-65b112966546":"Time
+    to craft those wings! But you''re going to need to get creative.","3c001aa1-a055-4ee5-8588-6414d207a8d9":"What
+    is a Zingeral?","98314ca9-5590-4126-8059-559d3ce92e8a":"Is Zingoshi dangerous?","38e484ae-7166-4498-bf7f-73620d820b49":"What
+    can you tell me about Muriel? Is she really the queen?","4b31adf5-547b-4353-a0ef-0f443cfd7bbe":"What
+    can you tell me about Warren and Willabella?","accf3d80-a4a3-448d-98c6-9c9f222b9ffe":"That''s
+    all I need to know for now. Thanks, Officer Harrison!","c5bf3bc0-7c8f-4b84-a7ab-4c8085995564":"Ok...think
+    about the fairies you humans seem to love making movies about and then scrub that
+    thought entirely. We zingerals have wings and magic but that\u2019s where the
+    similarities end!","d05bd1df-6dd1-49a9-a53b-de7f81ce4fbe":"Anyway. We\u2019re
+    the ruling species of Planet Zingoshi, like you humans are the ruling species
+    of Earth.","66da4374-5666-4c07-a6a5-29eedce33178":"Is Zingoshi dangerous? Have
+    you looked around Earth lately? No, by comparison, Zingoshi is a rubber dummy
+    plastered with \u2018beware of choking\u2019 stickers! We\u2019ve got magic. That
+    can be pretty dangerous but we have strict rules about that sort of stuff. And
+    don\u2019t worry, there are no dangerous creatures here to worry about.","86d9d097-2d50-42db-a374-d87dde4e1acd":"Well,
+    except Butterbites I suppose, they nip a tiny bit. Collect these leaves when you
+    see them, they\u2019ll fix you if you ever get on the wrong side of a Butterbite!","f0ed01e9-ed2e-4ffe-8ede-1b22cb4b66fb":"She
+    sure is! Muriel is a funny mixture of rock\u2019n\u2019roll and queenishness!
+    She might not look it but she can pull the \u2018royal\u2019 card when she needs
+    to. Busy lady! Don\u2019t know how she manages to do all she does and still spare
+    a smile for everyone. Yup, she\u2019s pretty special.","fa216d12-c613-4cd9-aa3f-56558903d9d9":"Chalk
+    and cheese those two are. He he...Warren, like chalk, makes me think...bored,
+    and Willa\u2019s like cheese, makes me think...crackers! Cheeseboard and crackers,
+    anyone?\r Nice enough kids on their own, but you know what happens when you mix
+    chalk and cheese? A gluggy mess that tastes awful.\r","946b86d9-39d1-4121-9d2d-20400c27114d":"Now
+    I could give you all the <i>enlightening</i> lessons in Zingoshi on aerodynamics
+    and thermodynamics, and all the <i>uplifting</i> pep talks and <i>lofty</i> speeches,
+    but you\u2019re officially grounded until you get a pair of these.","fd3f202d-a0e1-4940-b57e-f00b625d2269":"So
+    here\u2019s what I\u2019m going to do. ","78e2dd8c-98bb-45df-96b4-62f01a1961f2":"Instructions
+    for the construction of one pair of Trainer Wings. Now, you might want to pretty
+    them up a bit. The engineers who build these things tend to leave the visual design
+    to the individual...","2751dec5-767c-4974-9144-fcded8765fa1":"I can\u2019t wait
+    to see how you enhance these. Now, will you go classic and elegant, or bold and
+    loud? Maybe you\u2019ll go berserk with patterns? My first flappers were um...quite
+    flamboyant. Bright pink and purple swirls!","2b2cc320-94c4-4dd5-9b51-f22a76cec4cc":"Right,
+    off you go...fashion yourself some fine flappers. I\u2019ll be right here if you
+    need to know anything else.","9f48eda3-3737-429b-829d-8f912c853aa9":"Okay, time
+    you and I went up in the world.","90fd9753-ac09-49be-8f9b-b6473cbe6b6b":"Officer
+    Harrison is dying to see what you''ve made. Go show him!","796c2387-19bd-487f-81ec-b4af68d86f9c":"It''s
+    time to go flying! Fly through the hoops to show off your aeronautical skills!","09a43268-2987-46b7-835f-914cfe408f99":"Flown
+    through {0}/{2} hoops","8761c391-fc14-4402-8ad0-9248cb4c678d":"Now for the official
+    bit. Here, take this.","e8d60f00-d3ff-40f5-aa85-906478534564":"By the powers vested
+    in me by the Zingoshi Crown, I now pronounce you zingeral and...","1450950a-1d53-44b3-82dd-733a6c21f082":"Oops!
+    Wait, that\u2019s not right.","8fbd2241-c7a9-4ef9-adda-e432475a727d":"By the powers
+    vested in me by the Zingoshi Crown, I now appoint you to the rank of Zingoshi
+    Aeronaut - Level 1.","7e6e1b0f-f38f-4bec-ab85-4baf91bed3d3":"One last thing. Your
+    official Indigo Isles navigational chart.","66f310a7-2d27-476f-97bc-80677252d7d5":"Sorry,
+    a Level 1 Licence only allows you access to certain places. The others are full
+    of navigational hazards and other...tricky bits. Best avoided until you get comfy
+    with those wings.","e7aa3b3b-5a50-4df2-a508-6687520e6988":"Willa\u2019s Cabin.
+    Probably a good place to continue your investigation.","7191af5a-5eeb-4d26-b7ae-1e7848ebf08c":"Missing
+    Maggie","f437a7d8-6b74-4875-9e9d-0d8f0d45a214":"Willabella''s magnifying glass
+    Maggie has gone missing! She thinks Warren has something to do with it, search
+    her cabin for clues!","ef8a0915-d7e3-4406-82c6-b99db56ea740":"You''re ready to
+    go! Head over to Willabella''s cabin to begin your investigation, if you get lost
+    - check your map!","389abeea-41ef-4b00-8f59-783d337e075f":"Search Willabella''s
+    cabin for clues.","13bb0bf3-dc8c-4f3d-9fc6-8be5d11c75e6":"Maggie\u2019s gone!
+    My magnifying glass, vanished, and I know <i>exactly</i> who\u2019s stolen her.
+    Warren! Mr Thorn-in-my-butt Ugly-pants Junior!","5d23b2f7-4296-4725-b493-acbbfa3f69b3":"Hang
+    fire a sec. Who\u2019re you?","32d5de85-da76-417d-8dc5-f779dfa8b69a":" I\u2019m
+    a human, from Earth, inside a zingeral body.","7a5c06b4-f12b-4016-8131-e342a0a5690d":"
+    I\u2019m new to Indigo City. Just looking around.","4723e3d9-97fd-43a3-980b-10c1cb15058f":"[Are
+    you sure you haven\u2019t just misplaced Maggie somewhere?","3d8a32a7-6be2-4365-99cf-feb1c9214dbc":"Ha
+    ha! You\u2019re hilarious!","5924944c-4a75-4bb7-8c1b-07c67067097e":"Yeah, right...welcome
+    to the hood, newbie.","13490a3f-6c80-44a5-bc40-9ffa11e6a99b":"Nope, I\u2019ve
+    looked everywhere. Definitely stolen.","c1266b33-135f-4082-9565-3bd1999aa095":"Anyway...have
+    you seen Warren? If he\u2019s put even the littlest scratch on Maggie I\u2019m
+    going to turn that boy into...into...a not-boy!","3f2d74e1-c89c-454f-8003-53abfe041e9d":"[Lie]
+    Who\u2019s Warren?","76ad9dc5-e3ba-4225-8527-5a2a2d679320":"[Half Truth] Sorry,
+    I\u2019ve met him but I don\u2019t know exactly where he is now.","f1e2ef9c-e8bc-4b5f-99be-2a3f7e678fdd":"[Truth]
+    Near Gliding Glade, selling cakes. He was packing up when I left though.","9c4f3719-ed10-479b-9982-e6e4574b0681":"Suffering
+    centrifude! Never mind.","8f5249a7-5c89-4507-bb0e-bb6ef88b79eb":"Ok, but if you
+    see him, <i>don\u2019t</i> tell him I\u2019m looking for him.","89a72d94-e9c3-4667-983a-6632276fb837":"Thank
+    you, thank you! And...nice to meet you!","768b29cc-a8dd-4bae-9ecd-07497abf7712":"Show
+    Willabella you''ve cracked the code.","ae130b46-eb2a-4896-a534-c52ae96fb825":"Not
+    checking up on you, of course. No pressure. Just felt a little mean for chucking
+    you in the deep end and then scarpering off. I\u2019m all for encouraging independence
+    but accepting help is a skill too!","e994e068-e173-46ae-a9c7-3db9f62b39bb":"So...how\u2019s
+    it going? Have you worked it out?","50d5f236-ba9e-48bc-a158-bbbd23dd23a7":"Awesome!
+    I\u2019ll have this case cracked in no time.","de361c34-0c14-44a1-835f-9241f180b3de":"Challenging...but
+    I\u2019m getting there.","16994947-b144-4c60-9461-3b431ef4424c":"Um...to be honest,
+    I could do with a little help.","ad53d50d-9515-4642-8cd3-744108c02a35":"It\u2019s
+    cool to be confident, but let\u2019s not count our chickens just yet, eh?","8dccc952-06ed-4c8f-a587-976be6b0c42d":"Success
+    loves a trier. I knew I\u2019d picked the right human for this job.","6269f445-b290-4b16-bde1-d5f3cb837c4e":"Everyone
+    needs a little help now and then. Have you got something there you want me to
+    look at?","ae73c8cc-5ac3-4670-855d-30c005c6337a":"Yes, what do you think this
+    note I found means?","4b476f80-9588-4a41-8822-f6e3791ac555":"Thanks, but it\u2019s
+    ok. I\u2019ll work it out.","bffeac1e-61cd-4c7c-b4c2-a272d43b53c9":"Hmm...I\u2019ve
+    seen this code before. A=B, B=C, and so on.\n<i>Don\u2019t be such a vegetable,
+    Dig deep, Willabella.</i>\n<i>Maggie is in such an obvious place\u2026 ...that
+    even a cabbage like you could find her.</i>","9e308011-f513-49b4-a016-9329348e51dd":"Vegetable...dig
+    deep...cabbage. I think I know the place. Try the veggie patch beside the restaurant
+    called \u2018The Nest\u2019.","9a05ebe1-7600-4bd2-a556-f9e81cbfc075":"I have no
+    doubt about that.","5837182f-253c-4dce-bfe5-7524d1cd5fd9":"Great! Carry on with
+    the good work, dude!  And keep those reports coming. I love getting mail. Ok,
+    gotta rip - again. Catch you later!","92950622-e63b-45b7-9251-06ab6846785e":"Warren,
+    let\u2019s keep this nice and simple. You tell me where you\u2019ve hidden Maggie
+    or I\u2019ll...","acaa7b82-e6a0-414d-920d-df2aa25adb57":"What, Willabella? You\u2019ll
+    boobytrap me again? Sneak another red hanky into my pockets for the next time
+    mum washes my white shirts?","ed02de78-a3b0-4885-b369-f8bd13170dca":"Call me \u2018Ugly-pants\u2019
+    because you\u2019ve got no appreciation for a finely-made pair of trousers?","1006130b-70b1-4cd5-b266-358bed0b4820":"Can\u2019t
+    blame me for having a sense of style!","c8c525e3-7a15-4889-baa4-0032203b3253":"If
+    your twisted mind calls <i>that</i> style, save us!","33610d0d-955b-45f3-9fc3-3a23da04dc83":"Yes,
+    I am sure your ghastly imagination will conjure up something suitably nefarious
+    and traumatising for me.","b4bce09b-9d59-4285-9aa1-f9c36c27be74":"Twisted? TWISTED?!
+    I\u2019ll show you...","53037f0b-3c89-4461-b7a2-92762cb8ad78":"Oh! Hi there, newbie.
+    Warren and I were just \u2018discussing\u2019 the case of my missing magnifying
+    glass.","91de5d76-4f20-4abc-85cb-86a2dbe0bf92":"I take it, Lazy-bella, that belying
+    your meticulous nature, you somehow overlooked my cleverly coded note?","0597a70e-d57f-45b7-bc6e-3045150b9e48":"Note?
+    What note?","da4065d4-1922-4e0c-9b1b-85266e88e5bc":"Time to find missing Maggie!
+    The clue says it''s under the cabbage, but how are you going to lever that cabbage
+    out the way?","568665fe-b4ec-45aa-a339-512434f03981":"The Cabbage Conundrum","b2a39233-cd9d-4c7a-a7f7-6202c14dfe64":"Time
+    to find missing Maggie! The clue says it''s under the cabbage, but how are you
+    going to lever that cabbage out the way?","bdf5630f-b025-46cf-82a4-f8a0c848a3e2":"Maggie''s
+    under the cabbage, find a way to move it and get her out!","5c26a2f9-c847-4797-a87b-6f748a7f27b0":"What
+    does the fifth word say? If we can crack that we''ll have the rest!","9bbee2a2-8461-4a24-a4c3-e62f544e6b1f":"Under
+    the cabbage?! Oooooh, Warren...you are soooo done for.","7a83a2bb-53f8-4821-9dac-2cd62ae4ada1":"Ok,
+    think, Will, think. That cabbage is too heavy to life without...leverage! ","19acf59e-21c1-4afc-800c-4aee3417c01e":"We
+    need a rock and a bit of wood. They both have to be the right size.","09ff7bcf-13de-4713-93a6-fb50ecddfc64":"Do
+    you know what it means?","5e0958be-bfea-4455-a41b-5fc51ddbd121":"Oh yeah, I\u2019m
+    so smart! Oh, I mean we\u2019re so smart. Sorry, newbie.","f0026a68-f55b-450a-b583-922bccb7ad98":"Hmm...
+    No, that''s not it. Talk to me again when you''ve got it!","472706e7-ed36-4e55-aeb2-f72bc4c4a655":"Hmm...
+    No, that''s not it.","a9ec9c7d-6b4b-4815-bee8-4d3ced08efff":"Want to try again?","33f455fd-b761-404a-9553-07da7ee6b285":"Yes,
+    I think I''ve got it.","16a937ce-aafc-4ecc-8b84-8a972d6206a6":"No, I need to think
+    some more.","f8f2b7df-d4db-4a9d-8d98-a6b112072c0d":"Talk to me when you''ve got
+    it!","66d8247a-4c67-4ca3-af3d-f9369141e784":"Oh yeah, I\u2019m so smart! Oh, I
+    mean we\u2019re so smart. Sorry, newbie.","92aa65d1-2bcd-41fd-91fe-1a46fca0a6fd":"Under
+    the cabbage?! Oooooh, Warren...you are soooo done for.","3ff80bfb-2824-4595-92b0-ed4b3ec1cbbe":"Ok,
+    think, Will, think. That cabbage is too heavy to life without...leverage!","d5b0e38d-901a-47fe-bb06-5f9ace8aba75":"We
+    need a rock and a bit of wood. They both have to be the right size.","4fe9cf2e-9cc0-484a-82f3-0c95a4cc1087":"That
+    neggy-toed prindlewick!","fd784dbb-75f7-42f6-a70f-6fa4d49b6846":"That grassblinkered
+    blossom fungus!","53eaa874-fba6-4718-860b-a1e604f271a0":"That egg-splattered noodle!","fd1cdc4a-a55a-4cc3-b92a-1083b6e43c52":"That
+    feathery sop of a boodletink!","19d91c2d-eaf1-4c51-a1ba-0f98a20d0a50":"\"When
+    one person takes, one person has enough. When everyone gives, everyone has enough.\"
+    Very true indeed. I\u2019ll put that on my bedroom wall.\n","87b63de4-d294-44b6-b211-f5eeef499629":"What''s
+    with you and Willabella?","04d9a368-4880-4d7d-adf9-1465c5cc40e6":"About you and
+    Willabella...I\u2019d like to hear your side of the story.","3e84c816-756b-46b4-a6c0-c426c20bb80a":"Youhaven\u2019t
+    seen Willa lately, have you?","87733f3b-2a79-4f88-b3f5-34187b8aefd2":"Looks like
+    you\u2019ve got something on your mind. Can I help in any way?\n","9660b7df-2edc-4fb0-847d-a222c1357aa2":"Not
+    that it\u2019s any business of yours, but Willabella has had it in for me since
+    the day we met. It\u2019s rather like cakes, I suppose.\n","b35bc125-d505-4c89-9acb-13d583112d64":"ne
+    girl\u2019s \u2018yummy\u2019 is another girl\u2019s \u2018yuck\u2019, and that
+    girl simply has appalling taste.","bd9f3981-24c1-4440-87d5-3f7b82464f53":"So kind
+    of you to ask! Yes, Willabella and I have our differences, but I can honestly
+    say I didn\u2019t start it. From the very first day we met, she took a dislike
+    to me. I have simply responded in kind","2abc91c2-53b6-421b-af27-ccf91a9c5467":"Not
+    of late, thank goodness. Look, I don\u2019t know what you\u2019ve heard, but let
+    me clear something up. From the very first day we met, Willabella has behaved
+    as though...she\u2019s allergic to me. So, if she treats me like a rash then it\u2019s
+    only fair that I be a little...irritating","395c3165-10e1-450d-8b15-f2ae73b7749c":"Well,
+    it\u2019s been a pleasure but I must get packed up. I\u2019ve still got homework
+    to do, you see. Cheerio and enjoy your flying lesson!\n","f00074aa-3cfa-4c3b-9f3b-2ee475d1f3c6":"Oops,
+    sorry. Maggie and I...we\u2019re close, you know? Hurt Maggie, hurt me! Anyway,
+    thank you soooo much for helping me!!","dcdd5cf9-d2e4-4329-be19-ddd8213c7994":"Where
+    is he, Maggie? Find Warren for me please!... <i>Stink</i>, it''s not working!
+    Where\u2019s he gone?!","92a85d09-1f25-4288-b1f7-d2ca0fe1e852":"Yes! That\u2019s
+    it. Waves, the ocean...Serendipity Bay! Thank you, Subtle!!!","207d67c8-96d9-45e6-b970-ae04b0027e9c":"Rriiiiiiiii!
+    Rrrrriiiii! Woo hooo! Rrrriiiiiiii!!","632a18c8-6f9b-48fe-9b92-91f0d37b3bb8":"..So
+    next time, keep your grubby mitts off my stuff!","6b1c2a3d-3446-4dff-bc46-81b00a27f240":"<i>You\u2019re</i>
+    a sticky digit!!","330b6a77-bf3f-42de-b304-55e437058938":"My diorama\u2019s been
+    finished for ages..","188d71ea-10d0-45ce-981e-dd4cd36f9a26":"What have you done!?!","b1bfd37c-d47b-46b9-bd23-0ebba1ca88f0":"Firstly,
+    my hygiene is impeccable and my hands are always pristine. Far cleaner than your
+    sticky digits, I imagine. ","522d08b7-b6aa-4624-b516-dde45d60f120":"And secondly,
+    perhaps you should be paying more attention to your diorama project that is due
+    this afternoon? ","0d05e265-a879-4a5a-aeae-86c76b7d3f8d":"Are you sure about that?
+    ","710f25ce-c947-40ba-9316-7c685201142f":"I take it you didn\u2019t get my other
+    note then, either?","2817f5aa-1b73-4d07-9b5e-9ca58faca26c":"You wouldn\u2019t
+    dare cast that spell on me. It\u2019s not allowed!","7285adf0-75fd-45eb-b29d-f31b404556a4":"That\u2019s
+    it! Time to be the little beastie you really are, Warren!!","350d0052-3848-4dc2-a2aa-4d840284a2d0":"<i>You</i>
+    shouldn\u2019t be allowed! ","60db0189-deab-40cd-91b5-9d3bf4bfcd83":"[Distract]
+    Wow, what sort of magic are you doing? ","6994d00f-73fa-4e5b-bf17-80db755be31c":"[Reason]
+    Willabella, you\u2019re playing Warren\u2019s game, giving him the big reaction
+    he\u2019s been trying for.  ","80c9aeb2-a649-4d6c-8d0d-fb3192904ceb":"[Condemn]
+    Willabella, don\u2019t be crazy. You\u2019ll just make things worse! ","2447cccf-c858-477e-8344-ed2a5d730dd0":"\u2018Dealing
+    with Warren\u2019 magic\u2019! And I\u2019m awesome at it\u2026 whoops! ","b6666c95-91fa-4b03-a5d6-f1dd61d677bf":"Yeah
+    yeah, hang fire, I\u2019m just... ","ee4f2d88-8183-4b8e-bac6-e2a1c2e76341":"Sorry,
+    newbie, but this is between me and... ","5813a3f7-b799-4b8f-b6fc-e9fd542af3b8":"Oy!
+    What went wrong? ","8f301335-1696-4c5b-9be1-11d10d75e3fa":"Oy! What went wrong?
+    ","20c3e13c-d047-4725-878f-15cca5ff4652":"Oy! What went wrong? ","26dc4835-c42c-44d8-b7d5-c13f12ad7c44":"
+    ","0628c950-b699-4392-a9e7-d3685190de56":" ","88288ab1-713c-4f2f-b26d-cbc7295bfe19":"What
+    have you done!? ","ea22b613-6bd7-4ec8-b08c-d9224217eebd":"What have you done!?
+    ","29daef45-3a7a-40bb-ab55-a04d5a327467":"What have you done!?","be87cdf3-d8ce-40ca-b2a7-7517665e9544":"Now
+    there\u2019s something you only see every third day, maybe twice in the weekend.
+    ","ea01eb1e-b8df-4adf-868b-27d7a106175e":"Well done, you managed to distract Wills
+    enough to throw her spell-casting off a bit. A Speckled Tegdibby bird isn\u2019t
+    too bad, or at least, it\u2019s not the <i>worst</i> possible result...! ","2358c317-6bff-4333-9410-87474f6f30dc":"Ah,
+    oh dear. The Paint-Splatter Crab. Tried to talk her out of it, did you? Well,
+    good on you for trying. It\u2019s just that \u2018Reason\u2019 and \u2018Willabella\u2019
+    don\u2019t usually end up in the same sentence. ","84fa0ed3-3a37-49de-a63d-04cb1843c545":"Ooh,
+    oopsie! A Singing Softly Slug. Squelchy! You tried to tell Willabella off, didn\u2019t
+    you? Yeah...try to \u2018slug\u2019 it out with Willabella and...well, you can
+    see the results for yourself. ","52c71237-0d9d-4c3d-adf7-dda5c30036e4":"Not allowed,
+    of course, so I\u2019m going to let these two enjoy their \u2018new look\u2019
+    for a little bit while you rustle up some ingredients for a Reversal Potion. Oh
+    my. ","4b44afee-69e5-4a68-b0fb-301d8cebbe2b":"Sorry, I\u2019d do it myself but...duty
+    calls from half a dozen places at once right now. I wonder if there\u2019s a spell
+    that could grow me six \u2018long arms of the law\u2019. Hmmm, that\u2019d be
+    handy. Must ask Muriel when I see her. ","ebac2d5a-be02-4d7a-80c2-3403f7822c2d":"You
+    should be able to find all of the ingredients hereabouts. And don\u2019t rush.
+    These two could do with a little \u2018time out\u2019 anyway. You plonkers! You
+    are your own worst enemies, you are! Cheerio! ","0c0796d8-7739-4917-b8ca-ab46de5f477a":"
+    ","1ebdc269-3c4f-427b-9ffb-b00fd998ee67":" ","753cbfdd-ed2e-4d73-bfdb-f0e8716034db":"All
+    I can say is...good luck with your diorama project that\u2019s due in - oh, shame
+    - precisely half an hour. ","f4b1f728-651e-4590-8eb3-b00a5d8cd278":"Punctuality
+    is a virtue, Willa-tick-tock! ","8c7fb08a-6866-4b26-9bbb-594d5e830e3c":"Your face
+    put me off...","aae68ae9-76ba-4cba-9004-6d44462d57da":"Come on...he deserves <i>something</i>
+    for what he did. ","647160d2-055a-4547-ba8f-6e4716e1b5ce":"Hey...thanks for trying
+    to help, by the way. And\u2026 um, you can keep tagging along if you like. Not
+    that I need help or anything\u2026!","5f7a1c2c-55f3-4900-919f-539240aee277":"I\u2019ll
+    meet you at my cabin. Warren will have left clues. Don\u2019t listen to him. I\u2019m
+    a scientist. My skills of observation are awesome. I\u2019ll find it! And then
+    I\u2019ll find that thieving... ","a231d9ab-bcd5-4aca-9bb8-af3dcabfe7e2":"Argggghh!
+    You don\u2019t have any experience in safe-cracking do you?","52e9fce2-329b-4a7a-8437-86ea9b4a0378":"Sorry,
+    don\u2019t mean you look like a dodgy criminal!","9f5eed20-fd80-47de-af5a-296c4746fe54":"Thing
+    is, I stashed my diorama in here for safekeeping and I need to see if Warren\u2019s
+    weaseled his way in or not  - but...I\u2019ve kinda forgotten the combination...again.","e8b8931a-9dfe-4bbf-947b-eb71cc493a24":"This
+    is all Warren\u2019s fault, he\u2019s put me off! Only reset the thing a few days
+    ago too.","7bec0a57-7024-4a6d-b6a9-78d6eb0c697b":"If you can find a magnet, maybe
+    we can force the lock open with magnetism?","56a39af3-6486-476e-bf81-dffa3b5f1177":"Thanks,
+    newbie, you\u2019re awesome.","632c065d-84cd-442b-8572-e93e142be039":"Whaaat?
+    That should work\u2026","1f941d16-f8b2-4ca4-b7c5-0b556f78f16e":"Aha! It needs
+    more oomph! The <i>battery</i> might need replacing\u2026","947f1a4f-a2e6-45a0-9e3a-80f4cbae8a9b":"Yippee!","a8f5997c-4292-4063-9890-d97102fd29da":"A
+    Fail-safe Combination","39391a28-a73d-4b81-9f0f-ef8c519c79a7":"A Failsafe Combination","837aef71-4f94-49e3-90fb-9ed29ffd4ab6":"Warren
+    has messed with Willabella''s diorama (there''s no doubt!), but it''s stashed
+    in her safe for safe-keeping and she can''t remember the pin. Time to do some
+    safe-cracking!","f728b474-dc52-439c-857c-037e1bdd0442":"Willabella needs a magnet
+    and it''s up to you to find it and bring it back to her. Have a look around!","87cfd175-ea24-412b-9865-c6713124cc94":"The
+    magnet should work, but the battery is flat! See if you can find one and give
+    it to Willabella.","d5d02c57-602f-4583-85de-4d0223b1b08e":"If you can find a magnet,
+    maybe we can force the lock open with magnetism?","56457c82-7649-40f5-9d28-4fd002091b6b":"Thanks,
+    newbie, you\u2019re awesome.","f4f7b0b1-7c10-449c-a032-e8c06c952b98":"Whaaat?
+    That should work\u2026","f6b4496c-f91e-40da-bc91-d0c6e528552d":"Aha! It needs
+    more oomph! The <i>battery</i> might need replacing\u2026","5c49c7fc-abc9-48a9-9deb-39ea3490dc12":"Yippee!","8a69327a-411d-424b-83be-2c80c1a7b5e6":"Backwards
+    Thinking","bc25ee17-21ed-4b09-a066-b4bb3309367a":"Warren has left a cleverly coded
+    message for Willabella to crack, but she''s lost. Time to help this forward thinking
+    girl, work backwards!","9ef9636a-e735-4979-967e-e2aac9c2d188":"Can you crack Warren''s
+    code? Let Willabella know when you''ve got it!"},"_localizedObjects":{"f7876196-02a1-4c23-84c4-523fb22d32d1":0,"d5cb6e4d-4840-4940-8e29-ecbc64724bda":1,"2aa63f6a-320e-4b34-9ddb-1401fa99c509":0,"19eb4641-1978-41d4-bbac-a45603ccc9c6":1,"d24d4bcb-8cc9-4555-aaaa-f75aca92b84e":2,"813d48c9-0376-4abe-96c4-ac425fb26992":3,"45da60c9-7a2a-4ecf-b9e5-4fb62c2205b6":4,"c16fa413-accd-4029-8088-ab6345b5c5e0":5,"fb5e81bf-10ed-41dc-a882-53f0a168f093":6,"0a86aff7-c79a-4c21-8d10-86b69b399756":7,"d47b181f-0204-4b9f-9225-9a0f3141f027":8,"e7310e96-df7f-4e22-86b5-8688f93687b4":9,"5a85cbb8-2cef-4dd6-958c-948319ed60d0":10,"780c2416-da10-47b4-91ec-a62919a42507":11,"17bdac1b-62b9-45a8-a61b-ff14aeb38aaf":12,"a1d29ae3-d84d-45d8-a10d-ae9eca3421e6":13,"1b505b88-c53c-4d7e-9066-938be56d6387":14,"57701227-3959-4935-9293-e5fcd3cbd678":15,"c1ca3359-2046-450b-9ef2-1e092f569746":16,"2e7579c4-6579-48d2-a860-1b6f8a750983":17,"e7572f2d-fce9-4327-9d47-646136e19ec2":18,"f52c56c3-faf4-486b-915a-2960e4124022":19,"cdb9b955-956d-4f7a-9075-ec11b92ee01e":20,"5317b76d-99e9-451b-a976-74d8fae4c795":21,"6b2604ae-6656-4427-a87b-b85d81e1108b":22,"8834d710-81ba-4bbf-931f-86bdef32d763":23,"eb511227-58bb-4318-91e2-845719622537":24,"01bf1aef-0b11-464a-ab4f-b7926bc4cec9":25,"5f65d507-84f1-4e7f-b2bd-1aa6044202e2":26,"eca8287a-4b90-4d0b-8480-3db992d83872":23,"9c437ad9-5e2a-498b-ab2a-8c51665f7f9d":18,"ddd64dfe-7266-4145-875c-d16b778ab2e7":19,"884db0f9-7bf8-47fb-b22e-fa16036cbcfd":20,"15e2c8c5-2d67-4136-a443-dadf9433ef50":21,"272f4c84-4d7c-4517-9361-266ddd727081":22,"0ecf4461-5041-4d25-b427-b41789dd8e22":23,"5080699c-af57-49fb-b505-7aec9d60d8d3":24,"7939f765-86ae-4b2b-8819-8c4fdbfc374d":25,"b05d0244-9259-41eb-bb21-dd7e946e832d":26,"61e482f2-9fc2-4c6a-a646-ceb5c79df6ee":19,"091b2bab-af13-4e47-a09b-b575eebb917c":20,"f4b35397-c006-4494-89be-b816078bf7a9":21,"f8c5b40a-891b-4103-b9ca-b2868cbba25e":22,"8d23e526-d24a-48a3-9c45-fe2d4c102745":23,"c4b021fc-b7c7-4fa3-8350-ddc9b8d2592b":24,"77c4ddfa-6a6c-4b8e-aa01-9ab3ec2eb9d2":25,"47ed67ff-025a-434e-bb8f-52a0c351c060":26,"0331e8cd-9a2f-4bdf-81f6-69e336e447d7":27,"4fc855e9-28c6-4af6-b84b-6965c5760ab2":28,"c11002c5-d3b8-4920-af68-4ce3b638f759":18,"0a19d73b-6256-40af-ade3-95d6c1778511":29,"304e47ec-6fa3-491f-ac13-0056784422bb":30,"5561d018-829b-4d3c-a528-9466aece1148":31,"21d50534-11e8-44d8-ae67-e9ba5241a68a":32,"7d21c877-8c0c-43bc-ac1a-d5a43a096fe9":33,"9d5531d8-abc5-4960-a6dd-15a652862a61":34,"28dd9dfc-1839-46c5-8947-1a55a54bf3d9":27,"85b49b24-260a-4379-b65e-e370b44b30b2":28,"83437214-f0c2-4aea-9cbe-3ef5d9fe359c":29,"86c502e1-dee6-4645-b4ea-e3ffc924da1f":31,"4cb239c8-bc4e-4902-aa86-9449bb995b3d":30,"b21414f7-e322-4663-be01-092ed94ec28a":32,"25c6d839-52d0-4d8c-9a75-7a01c8650880":33,"7ce44a35-91b9-45fb-8602-0e8472842fc7":34,"47e693b3-774b-4425-ba08-9318e653e91a":35,"53891df7-ffca-4103-aeb5-e94bbba94c77":36,"531483ee-dc69-427e-aba9-8fbeae6970d4":37,"f8f20728-fb6c-427d-adf9-6aa149c3a5f3":38,"80a19960-decf-471c-a752-35d1aced5e56":39,"1254de8c-2723-42c7-b0b6-f86b42d9e062":40,"a8c2b520-96ff-4190-b47b-d1cf97ae96a1":41,"08e0b336-149e-4b8f-88eb-43ad68e686fa":42,"6320fe05-5b57-48fd-8497-1833f502bde7":43,"d387ae5e-5379-4f89-b95d-1747b3f9b8a0":44,"d2333c5b-7a01-4940-9866-17992c52fd8d":45,"830a898d-2b96-494d-aa81-05d5b2a7f572":46,"6593e2a1-b379-4cb3-a0be-384556d67717":47,"aa2a5278-2b9e-41b6-8353-343d01b5a661":48,"dcaa7f97-d4ad-4aec-ac3e-e29395f2fbf8":49,"f49298f1-d172-4732-8c09-f95343e9396f":50,"42b51161-7a69-4706-853d-798ba8ed83e7":40,"de0eb3cf-2128-417c-8135-d2a3f83ac325":41,"de62bdc6-1844-4188-8060-d322c3eb6159":42,"92c61214-3b4a-4b0b-9f5b-4accd0e7940a":43,"2c02f9bc-d122-4291-8947-db4d53b5afec":44,"38a7e597-3c58-47fe-8ad4-514da777cabb":45,"a287171b-b5bb-43d0-af9b-ef8a5a081f0a":46,"4d38494a-001e-4b85-a663-ab0faf389b8b":47,"bb459faa-743f-4bc2-a208-9a7b25fd405b":48,"af188b34-f3cc-4b01-a3fc-8c5938a499b9":49,"64f369c8-dc56-49a3-9f29-33192fa8448f":50,"2f07f242-8c6f-4d4b-aa3c-ac07956d72bf":51,"57b3d8e1-9445-425a-bc77-f671c63e2303":52,"867ccb37-99e3-4cb9-8d06-f1b389c12418":53,"cb6a3f4c-bb52-481e-bcb5-ea167a753793":54,"7fc1791d-715d-4ff6-a027-f17bb74c4d2c":55,"98177028-bf56-4d8e-9929-2e1333d5fc3b":56,"2a24b602-50bf-4c19-8dab-4bf97701ec36":57,"5bbd6095-4245-482b-b2b0-3b36345de2e5":58,"3790e399-7f58-4a56-a968-fbe1d5ae51d0":59,"97246dff-1b74-475c-a7d4-579e4dd01418":60,"0b84c419-bf98-4597-b505-889eb7510274":61,"fd9af10f-d557-4593-88c3-b701907937b7":62,"9c9e6101-73df-4fcd-a531-20b0901d3c34":63,"93231cb1-535a-42c0-bbf8-7f2178cd21d3":64,"b064d271-c823-4aec-9a81-3d9b721eff3c":65,"9fe235f8-9ee1-47a1-8c4e-e132d75bdad1":66,"02cb86bd-6eae-4461-81eb-2086a271ef4c":67,"8899793c-8473-45e8-9002-d6e4164c19fd":68,"c6763ca3-7627-4c3b-8e00-f4c7bcb12f7e":69,"95d2e0e7-c9c4-4560-8a28-f03dd344cd3c":70,"eafbb36c-1137-4f2a-aa6d-6b107f813d36":71,"1436db4f-cebc-43df-b8c3-da66dab5da30":72,"ef25f1d5-b611-4c11-8234-0a4ab10a7eaa":73,"03e6b49d-fe43-4de6-87de-3dc8edf38b76":74,"1a568ba5-eef4-4afb-a783-5b1128a9f427":75,"9639ba63-4acf-4873-ae95-da7a6ce56bee":76,"4f5ec77b-1868-40e9-92dd-419107fa004c":77,"a9f80c8d-c1a1-4158-ae01-1aa5ada1304d":78,"f69633ae-1f3c-4bc3-bd90-561a5dce49b8":79,"ed02ebb0-6314-44bf-993a-ec674270a2b5":80,"b872dcdb-459b-478b-813c-9c0cd44cdf1c":81,"81b8d179-c894-45d5-a184-269faf7df789":82,"55d7dea0-9669-4ae3-944f-32ddd340783a":83,"ce0e162a-09bf-4163-af1f-a6aceae71031":84,"56252e24-5a74-4d9f-bc8f-b174c9d5d0dd":85,"5dd2952f-1398-481b-9e51-ec625688e3fa":86,"0f0d6a59-8e60-4da1-8035-94a64da5467c":87,"15ded490-ef0c-4338-b26a-3a7994f1b410":88,"05e1ff8b-8b30-4d13-af7e-63dbb5dc44e6":89,"fb96803c-3bb9-4d8b-b65c-cf3e430738d1":90,"ca27e480-dceb-4645-965c-71796d603def":91,"496c9eec-d2cb-48b7-a90e-d7bb834447ba":92,"770386c5-3d9a-4eff-98d5-93f9a6877e92":93,"30562c63-1a6b-4ad6-8cea-038bee8a39da":92,"d566a11b-2f1b-4314-816f-380f1e05d2a6":94,"5d98ecd5-acc2-4dba-af0d-25118b37bd9c":95,"cf2c99d8-5559-440d-ba93-9431c8f62b71":91,"9cecdaf4-4914-4ff1-9742-9e3fdf00503f":92,"31340bf3-b54d-4ae9-84cc-74414784df05":93,"746e7c57-e081-434e-b406-acb7fed39493":92,"ebad5a07-cd01-4b21-942a-09c684f1784f":94,"f7efdfad-69b1-4199-85af-f80457a10000":27,"31458e0f-6923-4af5-8c9a-9979c8c5043b":28,"ce561986-e090-4c42-9d72-29d5cefae2b6":29,"962ef2c4-4770-489e-bbee-40a21273c4be":31,"91c36789-250e-4174-a6ba-6b7440166b83":30,"2e387528-f895-4f65-b861-ed6e7e849592":32,"927f4143-77ac-4f12-aac6-820e7f7da60a":33,"c0eb98c6-1f95-4d35-be27-a437a2d15235":96,"699125bb-74f2-4b0e-91a9-bfd7f696d4da":97,"2acb666e-6af4-4e39-b9f4-cd24bfe6e67f":96,"f2a76ab8-8f65-478d-a76d-4f8cec845e42":98,"dd6f9f22-f199-45cd-8d48-add967c62aea":99,"cfa6fa6a-92f2-4586-9e04-72360bf7e57c":100,"35dcf690-aa60-4183-836f-ffbf116e21b8":101,"84afaa29-db3e-4cc6-8ff9-d54d458cae3d":102,"78408a7f-cd62-4354-9c03-c56c891459ca":103,"95f73d82-7f33-42d0-b457-730f14963a84":104,"5344ddb7-c4cf-450e-b604-1489499a9918":105,"402ac692-4675-4470-abe9-1ccd313d98ac":106,"a6b2be8f-dc33-48ed-8e55-ac8cbb12e939":107,"f221e773-d55e-48f8-a67e-04ac9611889f":108,"e61aa695-9d4f-4742-b707-122cfb6f7085":109,"b6b928d2-e877-46e5-ada3-7696ee9ac1d1":105,"1dc9522e-0d56-440c-812a-9c00c88795fd":106,"04c6e564-30f6-49d3-a121-d179a2facf51":107,"62001534-88d6-49c4-acc2-0ae9003382c1":108,"c3cb19e3-18d8-4757-8845-71d32e5eda4b":109,"92cc0ef6-9535-48bf-9ae8-152339ffe6cc":110}}'
+  _objectReferences:
+  - {fileID: 8300000, guid: 92720faced36c4646a6b6f37e1624a70, type: 3}
+  - {fileID: 8300000, guid: 1edb305cb14454e458ff10671a41f09e, type: 3}
+  - {fileID: 8300000, guid: 6680a6781de494e098e266c5ac234e31, type: 3}
+  - {fileID: 8300000, guid: e4820a4efe5d34dd7b640be291caccb0, type: 3}
+  - {fileID: 8300000, guid: 29b4f3f74d26b4dcb8fed0e602c4cf27, type: 3}
+  - {fileID: 8300000, guid: 4c76ffd75019349d4a3d3a7d71083a03, type: 3}
+  - {fileID: 8300000, guid: a3b9f37ef5a594ad1bc2bb284ffb47a7, type: 3}
+  - {fileID: 8300000, guid: 4f145066f37bd449280501e90b4aac9e, type: 3}
+  - {fileID: 8300000, guid: fac4c5c9b585f4e51ab6b791f8afab06, type: 3}
+  - {fileID: 8300000, guid: ace5e5d8f783c4c809dddcf18a87e1c5, type: 3}
+  - {fileID: 8300000, guid: ac74cf57b11eb4ba7af9a9561644a72e, type: 3}
+  - {fileID: 8300000, guid: a46831d024f5b4eb5b3c8e5605295b81, type: 3}
+  - {fileID: 8300000, guid: 89fd5c8fbf9fc42e984658b4ccf3a19d, type: 3}
+  - {fileID: 8300000, guid: 4d748709fb6d44679aa8621f5539d299, type: 3}
+  - {fileID: 8300000, guid: 4a4f2e2388bdd4b0aa70bd0d0c1db452, type: 3}
+  - {fileID: 8300000, guid: e18d0d1d4880f4717bca87c6a42bfcda, type: 3}
+  - {fileID: 8300000, guid: d6cc9a696eb8d4f61a8d91ea8acbab5c, type: 3}
+  - {fileID: 8300000, guid: 52458d72c575f4e61adf013658f9d7cb, type: 3}
+  - {fileID: 8300000, guid: fc5e3efa48ed040f795c41a25916afc6, type: 3}
+  - {fileID: 8300000, guid: 8db80845c60b444a88bae2ba57f4dc1b, type: 3}
+  - {fileID: 8300000, guid: 5a6595edefe8f4d1a87ba8c468133b4b, type: 3}
+  - {fileID: 8300000, guid: 30a4f066965be4b83a0c1047941ed054, type: 3}
+  - {fileID: 8300000, guid: 306d6881b609f4f0289a5f5fdc7949e0, type: 3}
+  - {fileID: 8300000, guid: 56a4fc1fbe22a486896da62fe3bffb42, type: 3}
+  - {fileID: 8300000, guid: f7d3c0283e7c34aafa75d3466b3f699f, type: 3}
+  - {fileID: 8300000, guid: ab0663f7d25ec4c29b8a6fe43f221c1d, type: 3}
+  - {fileID: 8300000, guid: 425697959c8234fe680fe83d572aa978, type: 3}
+  - {fileID: 8300000, guid: 9c39ac6214ba944229baa883cba14cca, type: 3}
+  - {fileID: 8300000, guid: e03299e4f78e04f91ba719ec5dad9d37, type: 3}
+  - {fileID: 8300000, guid: 7a71b94deeefd4096b58f03d37cefb47, type: 3}
+  - {fileID: 8300000, guid: 1ebee25d9f98d447a8a183c01d971bcd, type: 3}
+  - {fileID: 8300000, guid: fcd9ca0e425424723b498e87dd0da22a, type: 3}
+  - {fileID: 8300000, guid: a0125f659fd7444cc866b01462ccc447, type: 3}
+  - {fileID: 8300000, guid: ccc1b67a0b3964bffb4d40fb2c00f1a3, type: 3}
+  - {fileID: 8300000, guid: 3513875985eed4eaca7dd02de3df16d6, type: 3}
+  - {fileID: 8300000, guid: dc915edae87314b69acb475bb626378a, type: 3}
+  - {fileID: 8300000, guid: 40dd26dd597f8418b941fea7ae6d5a45, type: 3}
+  - {fileID: 8300000, guid: 9e7d3f3b2cdcc4b6088a652b966821b5, type: 3}
+  - {fileID: 8300000, guid: 764594430181d48b68a5f6fb60da4e12, type: 3}
+  - {fileID: 8300000, guid: 8b8ae335e333a42bbbf915fc7d11d7ce, type: 3}
+  - {fileID: 8300000, guid: e77277eb11f14ee4bbe44c66b13fabb1, type: 3}
+  - {fileID: 8300000, guid: 3f530e51b3dcc1d459719ac33aa23ad2, type: 3}
+  - {fileID: 8300000, guid: 82a607101af42ef43a826e18e584e907, type: 3}
+  - {fileID: 8300000, guid: 2d74631254f6707488a82214b2440e0e, type: 3}
+  - {fileID: 8300000, guid: e7b3c44e25758bc4599d6b89bf4ebd85, type: 3}
+  - {fileID: 8300000, guid: 7e152ddf8d0550e46b1b7478b50f7a67, type: 3}
+  - {fileID: 8300000, guid: 019a24cacde63405096986ae0dca9ab8, type: 3}
+  - {fileID: 8300000, guid: 69333ea8aef6049e9a2e8e6f0aea143c, type: 3}
+  - {fileID: 8300000, guid: a14a3f380395b4416bab35117f9e926b, type: 3}
+  - {fileID: 8300000, guid: b06a81d8d53a24a4d9b6b65629e320a5, type: 3}
+  - {fileID: 8300000, guid: a866f8537058b47f4867c38ee34a6b22, type: 3}
+  - {fileID: 8300000, guid: eec1ffbaefd94384383c5d9097fc57e3, type: 3}
+  - {fileID: 8300000, guid: 31e6858c6e992034797c7adabfd94ab5, type: 3}
+  - {fileID: 8300000, guid: 4127112ab4c571b4a8beda9df3638c25, type: 3}
+  - {fileID: 8300000, guid: ad45dcd2cd41330408e2132521b7e7d5, type: 3}
+  - {fileID: 8300000, guid: bb73697275c50a847a4ef8057b813bc4, type: 3}
+  - {fileID: 8300000, guid: 208c7e27138d758448e35d0a8082c4f8, type: 3}
+  - {fileID: 8300000, guid: 7b19c7516e46d624882d3ea1b8d071e9, type: 3}
+  - {fileID: 8300000, guid: fe60d883fe0ef6e47b1883063526c443, type: 3}
+  - {fileID: 8300000, guid: 4e2911042014be9409847d8cc2e456c3, type: 3}
+  - {fileID: 8300000, guid: 20a4afce4c22b7c4a9bbd26927e5495d, type: 3}
+  - {fileID: 8300000, guid: 5f68250918cfb49c9ad123e5a364f36e, type: 3}
+  - {fileID: 8300000, guid: 47e2db0b310bc4938b4b6c6f0cb6a6cb, type: 3}
+  - {fileID: 8300000, guid: 4e30ceeaf966e4ed6b77c7bfbe364c40, type: 3}
+  - {fileID: 8300000, guid: 363f74284105c44d2bd10a7f8f2b9024, type: 3}
+  - {fileID: 8300000, guid: 9307d9a1d3d2643e9bd8215d4c223156, type: 3}
+  - {fileID: 8300000, guid: 15dd3bc3d781e4569b9335365707b86e, type: 3}
+  - {fileID: 8300000, guid: 0c91eca97f6d246b6a69f5adf221dbe7, type: 3}
+  - {fileID: 8300000, guid: ce1aefbadee2844488fe469b6487faaf, type: 3}
+  - {fileID: 8300000, guid: 3b158155c8bc8482bad608d225933506, type: 3}
+  - {fileID: 8300000, guid: 3c8acee7862bca94883e62e2ef8a3b9f, type: 3}
+  - {fileID: 8300000, guid: a052801e1bc781f4d92bd45cfea5f3f9, type: 3}
+  - {fileID: 8300000, guid: 231cf2aae0229b44794934ed9d1b28a2, type: 3}
+  - {fileID: 8300000, guid: fb26acd43c3ebb64aab7256da69cb7e6, type: 3}
+  - {fileID: 8300000, guid: dffb8d454df3a354e9898fc3fb1e38e9, type: 3}
+  - {fileID: 8300000, guid: 2df8d803da0d0eb4cb17060971c29930, type: 3}
+  - {fileID: 8300000, guid: cec1431f28e88db44a85ff491c585126, type: 3}
+  - {fileID: 8300000, guid: dc6553af55315f94fa367e0ce78a2b4b, type: 3}
+  - {fileID: 8300000, guid: fe2a59545e0155d4692e67ffbb72b6d5, type: 3}
+  - {fileID: 8300000, guid: 88e95f6eed9dd1247b0cca690eb1080f, type: 3}
+  - {fileID: 8300000, guid: 36aaed75220d0704a9ded68a099f40fd, type: 3}
+  - {fileID: 8300000, guid: 29255dcdacc3e0f458a558e3396412a4, type: 3}
+  - {fileID: 8300000, guid: 67af34cb86f605d48a62765ebe75be6c, type: 3}
+  - {fileID: 8300000, guid: d58b2731fa465eb4a8c11209248eb265, type: 3}
+  - {fileID: 8300000, guid: 7bde296cfe2a7d1458f198ab369651bd, type: 3}
+  - {fileID: 8300000, guid: 63063198d3f720d4c92f527d3a7b0fbf, type: 3}
+  - {fileID: 8300000, guid: ae0f15ffc7e35ad4795420354c33d084, type: 3}
+  - {fileID: 8300000, guid: d99ae07a18b753041b004746c4dd1194, type: 3}
+  - {fileID: 8300000, guid: c72579409a8535a4496de678e7070ed8, type: 3}
+  - {fileID: 8300000, guid: cb1002305e6886b42b223cfc3390e766, type: 3}
+  - {fileID: 8300000, guid: 22ae14b874681844d879b4d17540179c, type: 3}
+  - {fileID: 8300000, guid: 124e35891fabcbb44b55383fa451e780, type: 3}
+  - {fileID: 8300000, guid: 7dc21f6792fa08544a03433f0d814f6f, type: 3}
+  - {fileID: 8300000, guid: beaae2d4daf790f4ea21f3b81c4d7f54, type: 3}
+  - {fileID: 8300000, guid: be37d2053e637c643ae5e4634af6a930, type: 3}
+  - {fileID: 8300000, guid: a43dd69287d54344abf3c087c7c5168f, type: 3}
+  - {fileID: 8300000, guid: 93b403b191e16df40b375d05cee90d16, type: 3}
+  - {fileID: 8300000, guid: 79b1ac36f92d5a5478ee75cfdd0f8b5a, type: 3}
+  - {fileID: 8300000, guid: e5724d36974d4bd4591a6f28160a6921, type: 3}
+  - {fileID: 8300000, guid: 35ad92586b0b1c14183ca6f1d7a0f8a8, type: 3}
+  - {fileID: 8300000, guid: 9ac52f6f4ac3b824a910c8f9a9599b19, type: 3}
+  - {fileID: 8300000, guid: d1e87d28320318d478de92eaab43fb9a, type: 3}
+  - {fileID: 8300000, guid: f5a97adf3c80674468f9739b006321b3, type: 3}
+  - {fileID: 8300000, guid: 72b9fbcf798160e4ba0acc780c278cf0, type: 3}
+  - {fileID: 8300000, guid: a8ab57ac30d0c6c4c9e142bd4b5ff943, type: 3}
+  - {fileID: 8300000, guid: f45c9f5ffb1d09948a172108416e16bc, type: 3}
+  - {fileID: 8300000, guid: 4f7af04ac4c149d489dc28bf6315b591, type: 3}
+  - {fileID: 8300000, guid: c4a7d8f99a257ff4581c7574d21e5d09, type: 3}
+  - {fileID: 8300000, guid: 4139a606a8ceb164bb026c247579b5a2, type: 3}
+  - {fileID: 8300000, guid: cf9100a053d0ab741bca0647b139ae1f, type: 3}
+  - {fileID: 8300000, guid: 673f0d57e43f0874eab30c45b4f71383, type: 3}
+  _lang: en-US
