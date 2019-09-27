@@ -33,55 +33,44 @@
 	<b>Read the Quest System Pro Documentation</b></p>
 <p align="center">
 	<a href="https://quest-system-pro-docs.readthedocs.io/en/latest/">
-		<img src="https://i.imgur.com/0uTxaXy.png" alt="Discord server"></a></p>
+		<img src="https://i.imgur.com/0uTxaXy.png" alt="Documentation"></a></p>
 
-## Why is Inventory Pro being open-sourced?
+## Why is Quest System Pro being open-sourced?
 
-After years on the AssetStore, we're open-sourcing Inventory Pro because we're moving on to new projects and tools. You can read more in our blog post.
+After years on the AssetStore, we're open-sourcing Quest System Pro because we're moving on to new projects and tools. You can read more in our blog post.
 
 100% in the hands of the community, we hope to see the tool flourish, development continue, and any upcoming bugs fixed (the tool should be bug-free as-is).
 
-## What's included with Inventory Pro?
+## What's included with Quest System Pro?
 
-#### Multiple Inventories
-The extensive multiple inventories system allows you to .e.g setup 2 player-inventories; one for consumable loot drops (e.g. an apple or a potion), and one for other types of loot. Once setup, the system will automatically move looted items to the appropriate inventory.
+#### Quests of any type
+With Quest System Pro, you can create any type of quests with any number of required tasks, each task representing an action required by the user.
 
-The system doesn't restrict the amount of inventories you can create, so go nuts with your creativity!
+We've already built-in quest types such as discovery, gather, kill, talk, timed and other types of quests. But if you need more, you can of course extend the system to your needs.
 
-#### Advanced currency system
-The powerful currency editor allows you to define all your game's currencies; for use at vendors, in crafting blueprints etc. Each currency can even contain a set of conversions. For example, imagine a game with 3 currencies; Gold, Silver, and copper. When running out of copper, the system can convert the silver currency down to copper, essentially re-filling it from a more valuable currency that can be converted down.
+#### Achievements
+Go beyond just quests and setup achievements and achievement conditions for your players to meet. 
 
-#### Controller support
-Easily setup controller support for your game.
+#### Advanced Conversation Trees
+Quest System Pro comes packed with a powerful dialogue and conversation editor, which enables you to setup advanced conversation tress.
 
-#### Full mobile support
-Inventory Pro works across PC, mobile, and consoles, allowing you full freedom to port games using Inventory Pro to most platforms.
+This means you can easily create quests and achievements that requires a player to e.g. be level 10 before the quest can be started, or requires the player to collect all quest items for one quest before being able to start the next quest.
 
-#### Crafting
-Inventory Pro makes it easy to create crafting systems. The standard crafting system can of course be inherited from and overridden to modify certain aspects of the crafting process. For example, if you want to add another collection to scan for potential items the user would require.
+#### Salsa
+The built-in SALSA integration handles the player's facial animations, so you don't have to spend weeks animating faces.
 
-#### Restrictions
-Restrict your collections to types, weight, dragging, (un)stacking and more. This allows you to create a collection that can only hold consumable items, only quest items or both.
+#### Complete Freedom
+Quest System Pro does not enforce you to use a specific UI design or style and can thus very easily be themed to your liking.
 
-#### Item Layouts
-Allow each item to take up a specified amount of space in your collections. For example, allow a shield to take up a 2x2 slot while an apple only takes a 1x1 slot.
+#### Extensible
+Quest System Pro has been built with extensibility in mind. The flexible base allows you to morph it to your game's need.
 
-#### Cooldowns
-Categories can be given a cooldown, all items sharing this category will all go into cooldown when an item from this category is used. Of course you can override the cooldown per item.
+#### Localization Support
+With a built-in localization system, you can easily localize text, audio and visuals used for quests, achievements and dialogues in your Unity game.
 
-#### Collections
-Easily create your own collections, simply drag on a component, play with the settings in the inspector and voila. The skillbar uses references, and sums up the total amount of items in the inventories.
+In fact, any Unity.Engine.Object type can be localized, and since no programming is required, anyone on your team can help with the localization.
 
-#### Filters
-Filter collections (any window with items in it). For example when you create multiple inventories (which is very possible) you can filter one to only allow quest items. 
+#### Advanced Waypoint System
+Using the advanced waypoint system in Quest System Pro is easy, and allows you to setup custom NPC behavior based on player behavior.
 
-#### Vendors
-Buying and selling from vendors, such as an in-game NPC, is made easy - and with Inventory Pro, you can tweak each vendor right inside the Unity inspector.
-
-It doesn't get easier than that.
-
-#### Cleanup
-Sort, re-stack and tidy up your collections with a simlpe click of a button. The sorting algorithm can be tweaked to your liking to sort based on any paramter or type.
-
-#### Use items to restore stats
-Easily setup a system to e.g. recover health when your player eats an apple. The system is very extensible and can be used to recover stats in many different game-genres.
+As an example, you can have an NPC run towards the location of a quest item, wait for the player to catch up, then give the player a new quest and finally return to the place it came from.
