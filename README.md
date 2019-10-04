@@ -41,6 +41,12 @@ After years on the Asset Store, we're open-sourcing Quest System Pro because we'
 
 100% in the hands of the community, we hope to see the tool flourish, development continue, and any upcoming bugs fixed (the tool should be bug-free as-is).
 
+## Getting started
+
+Clone the repository + submodules, or download the zip file + [the general library](https://github.com/devdogio/general) and place it in Assets/Devdog.
+
+Integrations stored in the Integrations folder may have to be removed, if you do not have these plugins in your project.
+
 ## What's included with Quest System Pro?
 
 #### Quests of any type
