@@ -50,9 +50,9 @@ Integrations stored in the Integrations folder may have to be removed, if you do
 ## What's included with Quest System Pro?
 
 #### Quests of any type
-With Quest System Pro, you can create any type of quests with any number of required tasks, each task representing an action required by the user.
+With Quest System Pro, you can create any type of quests with any number of required tasks. Each task represents an action required by the user.
 
-We've already built-in quest types such as discovery, gather, kill, talk, timed and other types of quests. But if you need more, you can of course extend the system to your needs.
+We've already built-in quest types such as discovery, gather, kill, talk, timed and more. You can of course also extend the system to your needs.
 
 #### Achievements
 Go beyond just quests and setup achievements and achievement conditions for your players to meet. 
