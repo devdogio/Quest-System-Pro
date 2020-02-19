@@ -9,6 +9,7 @@ namespace Devdog.QuestSystemPro.Dialogue.UI
     public class DialogueUI : MonoBehaviour
     {
         [Header("Settings")]
+        public bool hideDialogueOwnerNameOnPlayerNode = true;
         public bool hideDialogueOwnerIconOnPlayerNode = true;
 
         [Header("Audio & Visuals")]
@@ -74,6 +75,10 @@ namespace Devdog.QuestSystemPro.Dialogue.UI
             if (after.ownerType != DialogueOwnerType.DialogueOwner)
             {
                 SetDialogueSpeakerIcon(hideDialogueOwnerIconOnPlayerNode ? null : QuestManager.instance.settingsDatabase.playerDialogueIcon);
+                if(dialogueOwnerName != null)
+                {
+                    dialogueOwnerName.text = (hideDialogueOwnerNameOnPlayerNode ? string.Empty : QuestManager.instance.settingsDatabase.playerName);
+                }
             }
             else
             {

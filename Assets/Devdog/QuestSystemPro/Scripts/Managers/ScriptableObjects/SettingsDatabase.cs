@@ -21,6 +21,7 @@ namespace Devdog.QuestSystemPro
         public DefaultNodeUI playerInputNodeUIPrefab;
 
         [Header("Dialogue UI")]
+        public string playerName;
         public Sprite playerDialogueIcon;
 
     }
